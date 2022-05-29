@@ -1,0 +1,66 @@
+['bus', '44'] 32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:29:19
+
+['bus', '28'] eGros, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 19:29:21
+
+['bus', '48'] Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 19:32:50
+
+['bus', '54'] Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:29:19
+
+['bus', '41'] DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 19:29:20
+
+['bus', '30b'] Canta, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 19:32:50
+
+['tram', '9'] 34, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 19:29:20
+
+['bus', '42'] Stadion, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 19:32:48
+
+['bus', '27'] 101-100, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 19:29:21
+
+['tram', '3'] Pan Travel, Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 14:38:57
+
+['tram', '11'] P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 19:29:19
+
+['bus', '52'] Stadion, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 19:32:48
+
+['tram', '6'] Pasaj Alexandru cel Bun, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 19:29:18
+
+['bus', '43c'] 32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:32:49
+
+['bus', '5'] 32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:32:49
+
+['bus', '47'] H8, 22, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700570, România; 2022-05-29 19:32:50
+
+['bus', '19'] Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 19:32:46
+
+['tram', '8'] Bicaz, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 19:32:48
+
+['bus', '30'] Canta, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 19:32:50
+
+['tram', '1'] Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:29:21
+
+['bus', '49'] Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 19:32:50
+
+['tram', '13'] Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:29:21
+
+['bus', '20'] Corte, Strada Cucu, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 19:32:46
+
+['bus', '50'] Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 19:32:50
+
+['bus', '29'] DN28, Tomești, Zona Metropolitană Iași, Iași, 707515, România; 2022-05-29 19:32:49
+
+['bus', '36'] 32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:32:50
+
+['bus', '46'] 32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:32:50
+
+['bus', '18'] SCTP Iași, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:29:19
+
+['tram', '7'] Bulevardul Tudor Vladimirescu, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 19:32:50
+
+['bus', '23'] Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:35:11
+
+['bus', '53'] Șoseaua Păcurari, ERA, Iași, Zona Metropolitană Iași, Iași, 700552, România; 2022-05-29 19:32:50
+
+['bus', '3b'] Strada Dudescu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 19:29:18
+
+['bus', '43'] X3, 33, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 19:32:50
+

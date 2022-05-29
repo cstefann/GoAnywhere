@@ -1,0 +1,11 @@
+Dacia,
+Columnei,
+Bicaz,
+Zimbru,
+Familial,
+Pasaj Alexandru cel Bun,
+Gara,
+Str. Bacinschi,
+Piata Unirii,
+Filarmonica,
+Targu Cucu

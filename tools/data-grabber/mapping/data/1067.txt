@@ -1,0 +1,155 @@
+622, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 10:09:49
+Bulevardul Poitiers, Nicolina 1, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 10:12:47
+1011, 116, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700710, România; 2022-05-29 10:15:49
+Centrul Tehnologic Regional, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 10:18:49
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 10:21:49
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 10:24:16
+Bloc F3 sc A și F2 sc. b, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 10:27:20
+978C, 65, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700716, România; 2022-05-29 10:30:18
+Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700721, România; 2022-05-29 10:33:18
+648, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 10:36:19
+Spital Recuperare, Strada Pantelimon Halipa, Galata, Iași, Zona Metropolitană Iași, Iași, 700614, România; 2022-05-29 10:39:19
+A16, 9, Strada Cerna, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 700649, România; 2022-05-29 10:42:19
+Piața Alexandru cel Bun, Șoseaua Națională, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 10:45:19
+48A, Șoseaua Națională, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700607, România; 2022-05-29 10:48:19
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700407, România; 2022-05-29 10:51:18
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 10:54:15
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 10:57:18
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:00:18
+Pescărie, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 11:03:18
+E2, 37, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700633, România; 2022-05-29 11:06:20
+D1, 9, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700572, România; 2022-05-29 11:09:20
+C3, 1-3, Strada Pantelimon Halipa, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 507184, România; 2022-05-29 11:12:17
+Gara Nicolina, Strada Bradului, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700656, România; 2022-05-29 11:15:17
+Frumoasa, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 11:18:19
+Bulevardul Poitiers, Nicolina 1, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 11:21:17
+Socost, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 11:24:20
+C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:27:19
+C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:30:19
+C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:33:16
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:36:17
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:39:19
+Bloc F3 sc A și F2 sc. b, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 11:42:19
+Rondul Vechi Residence, Șoseaua Nicolina, CUG, Iași, Zona Metropolitană Iași, Iași, 700735, România; 2022-05-29 11:45:17
+601, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 11:48:20
+Pasaj Nicolina, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 11:51:19
+Lidl, Strada Pantelimon Halipa, Galata, Iași, Zona Metropolitană Iași, Iași, 700614, România; 2022-05-29 11:54:16
+X10, 5, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700646, România; 2022-05-29 11:57:17
+Depoul C.F.R., Șoseaua Națională, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700607, România; 2022-05-29 12:00:16
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700407, România; 2022-05-29 12:03:16
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:06:19
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:09:16
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:12:46
+DE4, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700428, România; 2022-05-29 12:15:48
+Strada Sarmisegetuza, Dacia, Iași, Zona Metropolitană Iași, Iași, 700634, România; 2022-05-29 12:18:48
+Strada Roman Vodă, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700573, România; 2022-05-29 12:21:46
+Mircea cel Bătrân, Strada Cerna, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 700651, România; 2022-05-29 12:24:46
+F3B, 8, Strada Pantelimon Halipa, Galata, Iași, Zona Metropolitană Iași, Iași, 507184, România; 2022-05-29 12:27:49
+H6, 3, Strada Bradului, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 507184, România; 2022-05-29 12:30:39
+Bariera Nicolina, Strada Libertății, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700725, România; 2022-05-29 12:33:48
+Petrol, Bulevardul Poitiers, Nicolina 2, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 12:36:50
+Biserica Înălțarea Domnului, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 12:39:49
+Centrul Expozițional Moldova, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:42:48
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:45:50
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:48:45
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:51:47
+1004, 105-113, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 12:54:49
+Lidl, Strada Pantelimon Halipa, Galata, Iași, Zona Metropolitană Iași, Iași, 700614, România; 2022-05-29 13:06:20
+Bulevardul Alexandru cel Bun, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 700646, România; 2022-05-29 13:10:20
+A5, Șoseaua Națională, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700607, România; 2022-05-29 13:13:49
+Y3, Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 13:17:19
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 13:20:48
+La Umbreluțe, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700428, România; 2022-05-29 13:24:20
+A5, 18, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700573, România; 2022-05-29 13:27:48
+CEC (Podu Roș), Bulevardul Regele Mihai I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 13:31:19
+Bulevardul Tudor Vladimirescu, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:34:49
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:38:19
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:41:48
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:45:50
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10
+32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:10

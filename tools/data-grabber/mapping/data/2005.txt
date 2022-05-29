@@ -1,0 +1,155 @@
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 10:09:48
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 10:12:45
+Caremil, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 10:15:48
+478, 67;69;71, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 10:18:48
+558, 6-8, Strada Cazărmilor, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700522, România; 2022-05-29 10:21:50
+79, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 10:24:18
+A4, 3, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700098, România; 2022-05-29 10:27:18
+310, 24-26, Strada Cucu, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 10:30:16
+93, Bulevardul Tudor Vladimirescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700310, România; 2022-05-29 10:33:16
+Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 10:36:19
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:39:17
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:42:19
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:45:14
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:48:16
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:51:18
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:54:19
+Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 10:57:15
+Corp E, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700320, România; 2022-05-29 11:00:19
+36, Bulevardul Tudor Vladimirescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700310, România; 2022-05-29 11:03:18
+P13, Strada Pantelimon, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 11:06:17
+C1-5, 25-33, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 11:09:17
+15, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 507184, România; 2022-05-29 11:12:15
+Strada Niciman, Canta, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 11:15:17
+Clasor, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 11:18:16
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 11:21:18
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 11:24:20
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 11:27:16
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 707410, România; 2022-05-29 11:30:17
+DN28, Miroslava, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 11:33:04
+Metro, Strada Brătuleni, Miroslava, Zona Metropolitană Iași, Iași, 707307, România; 2022-05-29 11:36:15
+Metro, Strada Brătuleni, Miroslava, Zona Metropolitană Iași, Iași, 707307, România; 2022-05-29 11:39:17
+Metro, Strada Brătuleni, Miroslava, Zona Metropolitană Iași, Iași, 707307, România; 2022-05-29 11:42:19
+Gold & Platin -, DN28, Miroslava, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 11:45:14
+Stef, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 11:48:16
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 11:51:16
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 11:54:20
+c1, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 11:57:14
+Buruiană, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 12:00:20
+Mol (Pacurari), Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 12:03:20
+Sfânta Maria, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 12:06:19
+Profi, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700101, România; 2022-05-29 12:09:17
+C9, 3, Bulevardul Tudor Vladimirescu, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700305, România; 2022-05-29 12:12:43
+93, Bulevardul Tudor Vladimirescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700310, România; 2022-05-29 12:15:48
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 12:18:45
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:21:49
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:24:49
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:27:44
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:30:46
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:33:46
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 12:36:47
+Tătărași Nord, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 12:39:49
+17, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 12:42:47
+330, Bulevardul Tudor Vladimirescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700303, România; 2022-05-29 12:45:48
+310, 24-26, Strada Cucu, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 12:48:44
+Bloc C1-5, Sc. C3, 29, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 12:51:49
+Piața de flori Independenței, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 12:54:43
+550, 66;68;70, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 13:06:16
+Popasul Păcurari, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 13:10:14
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 13:13:46
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 13:17:18
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 13:20:47
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 13:24:19
+Arabesque, DN28, Miroslava, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 13:27:45
+Metro, Strada Brătuleni, Miroslava, Zona Metropolitană Iași, Iași, 707307, România; 2022-05-29 13:31:18
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 13:34:50
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 13:38:18
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 13:41:47
+Popasul Păcurari, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 13:45:48
+Peco OMV, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 13:49:15
+592, 158, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 13:52:44
+64, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700464, România; 2022-05-29 13:56:20
+R1, R2, R3, R4, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 13:59:49
+Lara Farm, Strada Cucu, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 14:03:17
+59, Bulevardul Tudor Vladimirescu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 14:07:17
+Spitalul Sfânta Maria, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 14:10:48
+B3, 136, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700357, România; 2022-05-29 14:14:15
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 14:17:45
+Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 14:21:16
+Alhambra Salon, 12, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700320, România; 2022-05-29 14:24:49
+60, Bulevardul Tudor Vladimirescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 14:28:50
+P13, Strada Pantelimon, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 14:32:16
+Indiana, Strada Stihii, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 14:35:52
+R1, R2, R3, R4, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 14:39:17
+Blocuri Păcurari, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700511, România; 2022-05-29 14:42:50
+584, 126, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 14:46:17
+Fortis, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 14:50:16
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 14:53:51
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 14:57:20
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 15:00:45
+Stef, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 15:04:13
+DN28, Miroslava, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 15:07:49
+DN28, Miroslava, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 15:11:50
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 15:15:20
+Carrefour Era N, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 15:18:49
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 15:22:21
+Vila Ilarion, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 15:25:50
+557, 10-14, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700534, România; 2022-05-29 15:29:50
+106, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 15:33:15
+SCTP Iași, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 15:36:50
+2, Strada Stihii, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 15:40:19
+59, Bulevardul Tudor Vladimirescu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 15:43:46
+Grădinița cu program normal Nr. 1, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 15:47:48
+B3, 136, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700357, România; 2022-05-29 15:51:19
+B3, 136, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700357, România; 2022-05-29 15:54:48
+B5, 124, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700345, România; 2022-05-29 15:58:19
+Tătărași Nord, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 16:01:49
+22, Strada Vasile Lupu, Tudor Vladimirescu, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 16:05:19
+Bloc 311, 2-4, Bulevardul Tudor Vladimirescu, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700305, România; 2022-05-29 16:09:15
+19, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700101, România; 2022-05-29 16:12:49
+Blocuri Păcurari, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700511, România; 2022-05-29 16:16:17
+BRD, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 16:19:46
+Kaufland (Păcurari), Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 16:23:19
+DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700521, România; 2022-05-29 16:27:21
+Decathlon, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 16:29:14
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 16:34:19
+Antibiotice, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 707305, România; 2022-05-29 16:37:49
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 18:42:18
+Peco OMV, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 18:46:16
+590A, 4, Strada Cazărmilor, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700522, România; 2022-05-29 18:49:46
+116, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 18:53:20
+Corident, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 18:56:46
+Târgu Cucu, Strada Sărărie, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 19:00:19
+59, Bulevardul Tudor Vladimirescu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 19:04:17
+Hyperclinica MedLife, 78, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 19:07:48
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:11:16
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:14:46
+SCTP Iași, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:18:45
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 19:22:15
+Tătărași Nord, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 19:25:50
+22, Strada Vasile Lupu, Tudor Vladimirescu, Iași, Zona Metropolitană Iași, Iași, 700309, România; 2022-05-29 19:29:21
+P13, Strada Pantelimon, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 19:32:47
+Bloc C1-5, Sc. C3, 29, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 19:36:49
+Pasajul Mihai Eminescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700511, România; 2022-05-29 19:40:18
+Petru Poni, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 19:43:50
+Cimitirul Evreiesc, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 19:47:19
+Rond Păcurari, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 19:51:18
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 19:54:50
+Praktiker (ERA), DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 19:58:19
+Daewoo, DN28, ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 20:01:46
+ERA, Iași, Zona Metropolitană Iași, Iași, 700069, România; 2022-05-29 20:21:18
+OMV, Șoseaua Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700544, România; 2022-05-29 20:24:46
+Fan Courier, 4, Strada Muntenimii, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 20:28:17
+Capriciu, 59, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 700464, România; 2022-05-29 20:31:48
+Spitalul Clinic Județean de Urgențe "Sf. Spiridon", 1, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 20:35:50
+Taxi Podul de Fier, Strada Cucu, Moara de Vânt, Iași, Zona Metropolitană Iași, Iași, 700082, România; 2022-05-29 20:39:19
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 20:48:16
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 20:51:47
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 20:55:45
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 20:59:14
+B3, 136, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700357, România; 2022-05-29 21:02:46
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 21:06:17
+Rost Costruct, Strada Ateneului, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 21:10:20
+59, Bulevardul Tudor Vladimirescu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 21:14:19
+Bloc C1-5, Sc. C3, 29, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 21:17:45
+13, Strada Păcurari, Păcurari, Iași, Zona Metropolitană Iași, Iași, 507184, România; 2022-05-29 21:21:19

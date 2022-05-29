@@ -1,0 +1,93 @@
+L8, L9, L10, Strada Gării, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 13:24:16
+L3;1;3, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 13:27:48
+L3;1;3, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 13:31:20
+L8, L9, L10, Strada Gării, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 13:34:48
+Pan Travel, Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 13:38:20
+11, Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 13:41:47
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 13:45:50
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 13:49:17
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 13:52:50
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 13:56:17
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 13:59:50
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 14:03:17
+Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 14:07:20
+Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:10:52
+Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:14:19
+Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:17:47
+5, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:21:19
+L3;1;3, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:24:46
+Ortadogu Perla, Strada Bacinschi, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:28:49
+5, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700036, România; 2022-05-29 14:32:16
+Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 14:35:49
+Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 14:39:16
+SCTP Iași, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 14:42:48
+Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 14:46:20
+Universitate, Pista Copou, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 14:50:18
+Stadion, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 14:53:51
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 14:57:18
+Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 15:00:50
+Statuia Ferdinand I, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 15:04:17
+Cercul Militar Iași, 7, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700506, România; 2022-05-29 15:07:50
+8 bloc, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700036, România; 2022-05-29 15:11:47
+Urban Pizza, 40, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 15:15:20
+Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 15:18:47
+Casa Dosoftei, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 15:22:19
+Podu Roș (3), Strada Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700220, România; 2022-05-29 15:25:47
+954, 21-23, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 15:29:49
+Biserica Înălțarea Domnului, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 15:33:17
+C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:36:49
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:40:11
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:43:49
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:47:46
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:51:19
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:54:46
+CUG 1, Șoseaua Nicolina, CUG, Iași, Zona Metropolitană Iași, Iași, 700735, România; 2022-05-29 15:58:18
+146, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 16:01:45
+C9, 4, Strada Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700220, România; 2022-05-29 16:05:18
+Congress Hall, Strada Palat, Centru, Iași, Zona Metropolitană Iași, Iași, 700028, România; 2022-05-29 16:09:20
+Hotel Europa, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 16:12:48
+43, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 16:16:20
+6, Piața Unirii, Centru, Iași, Zona Metropolitană Iași, Iași, 700056, România; 2022-05-29 16:19:47
+Universitatea Aexandru Ioan Cuza din Iași, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700506, România; 2022-05-29 16:23:20
+Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 16:27:17
+Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 16:30:45
+Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 16:34:22
+Copou, DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 16:37:49
+991B, 76, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700684, România; 2022-05-29 18:42:17
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 18:46:17
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 18:49:49
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 18:53:16
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 18:56:48
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 19:00:21
+CUG 1, Șoseaua Nicolina, CUG, Iași, Zona Metropolitană Iași, Iași, 700735, România; 2022-05-29 19:04:19
+146, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 19:07:51
+Piața Podu Roș, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 19:11:18
+Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 19:14:51
+Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 19:18:48
+Statuia lui Dimitrie Cantemir, Strada Vasile Alecsandri, Centru, Iași, Zona Metropolitană Iași, Iași, 700098, România; 2022-05-29 19:22:20
+Academia Română, Filiala Iași, 8, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700505, România; 2022-05-29 19:25:48
+Statuia Alexandru Averescu, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 19:29:20
+Pista Copou, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 19:32:47
+Copou, DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 19:36:50
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 19:40:18
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 19:43:50
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 19:47:17
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 19:51:20
+George Coșbuc, Strada George Coșbuc, Copou, Iași, Zona Metropolitană Iași, Iași, 700469, România; 2022-05-29 19:54:47
+Universitatea Alexandru Ioan Cuza din Iași, 11, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700506, România; 2022-05-29 19:58:19
+Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 20:01:47
+Centru de imagistică veterinară, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700688, România; 2022-05-29 20:21:20
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 20:24:47
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 20:28:19
+SCTP Iași, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 20:31:47
+Bloc F3 sc A și F2 sc. b, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 20:35:49
+968, 31-39, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700688, România; 2022-05-29 20:39:17
+Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 20:48:18
+Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 20:51:50
+Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 20:55:48
+Universitate, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700506, România; 2022-05-29 20:59:20
+George Coșbuc, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 21:02:47
+DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 21:06:19
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 21:10:17
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 21:14:20
+ExpressCafe, Strada Ion Luca Caragiale, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 21:17:47

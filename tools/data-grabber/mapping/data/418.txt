@@ -1,0 +1,155 @@
+Pasajul Alexandru cel Bun, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700011, România; 2022-05-29 10:09:48
+Gara Internațională: Nicolina, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700257, România; 2022-05-29 10:12:46
+904A, 18, Bulevardul Nicolae Iorga, Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700216, România; 2022-05-29 10:15:45
+P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 10:18:47
+Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 10:21:46
+Tepro, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 10:24:15
+Pod Metalurgie, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 10:27:19
+Tr. T2, A1  140A, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:30:18
+K1, 86, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700341, România; 2022-05-29 10:33:13
+30, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700321, România; 2022-05-29 10:36:17
+Tătărași Nord, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 10:39:17
+Mobis, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 10:42:18
+ROST CONSTRUCT, 140D, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:45:16
+CFS 2, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 10:48:13
+132, Calea Chișinăului, Zona Industrială, Baza 3, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 10:51:15
+Moldoplast, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700264, România; 2022-05-29 10:54:14
+Piața Nicolina, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 10:57:16
+8f, Bulevardul Nicolae Iorga, Nicolina, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700216, România; 2022-05-29 11:00:17
+SCTP Iași, Bulevardul Nicolae Iorga, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700211, România; 2022-05-29 11:03:15
+Podul de Piatră, Bulevardul Nicolae Iorga, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 11:06:14
+Minerva, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 11:09:16
+DA6, 7, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700425, România; 2022-05-29 11:12:17
+SF9, Strada Strămoșilor, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:15:17
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:18:16
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:21:18
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:24:18
+30, Strada Buridava, Dacia, Iași, Zona Metropolitană Iași, Iași, 700432, România; 2022-05-29 11:27:18
+Dacia, Iași, Zona Metropolitană Iași, Iași, România; 2022-05-29 11:30:16
+Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700576, România; 2022-05-29 11:33:18
+Șoseaua Națională, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700239, România; 2022-05-29 11:36:13
+K2, 7E-7F, Bulevardul Nicolae Iorga, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700256, România; 2022-05-29 11:39:17
+904A, 18, Bulevardul Nicolae Iorga, Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700216, România; 2022-05-29 11:42:16
+P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 11:45:17
+Moldoplast, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700264, România; 2022-05-29 11:48:19
+Panifcom, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 11:51:16
+Sans Rival, 3, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700291, România; 2022-05-29 11:54:17
+J11, 152, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700360, România; 2022-05-29 11:57:17
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 12:00:09
+Alhambra Salon, 12, Strada Dudescu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700320, România; 2022-05-29 12:03:17
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 12:06:19
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 12:09:14
+Flora, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 12:12:46
+101-100, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 12:15:49
+Piața Ing. Virgil Săhleanu, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 12:18:48
+132, Calea Chișinăului, Zona Industrială, Baza 3, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 12:21:45
+2, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 12:24:48
+Piața Nicolina, Bulevardul Nicolae Iorga, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 12:27:44
+Vama, Bulevardul Nicolae Iorga, Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 12:30:50
+F6, 7C, Bulevardul Nicolae Iorga, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700256, România; 2022-05-29 12:33:46
+Șoseaua Națională, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700239, România; 2022-05-29 12:36:46
+Minerva, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 12:39:44
+DA9, 13, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700425, România; 2022-05-29 12:42:48
+Z3, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:45:50
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:48:49
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:51:43
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:54:45
+DN28, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, România; 2022-05-29 13:06:18
+Vama, Bulevardul Nicolae Iorga, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 13:10:17
+P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 13:13:47
+Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 13:17:15
+Rapid All Motors, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 13:20:50
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 13:24:18
+K1, 4A, Strada Pictorului, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700321, România; 2022-05-29 13:27:48
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 13:31:20
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 13:34:49
+D1, 83, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 13:38:21
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 13:41:45
+Piața Ing. Virgil Săhleanu, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 13:45:44
+Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 13:49:18
+T3, 40, Bulevardul Nicolae Iorga, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700195, România; 2022-05-29 13:52:48
+Vama, Bulevardul Nicolae Iorga, Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 13:56:15
+Podul de Piatră, Bulevardul Nicolae Iorga, Mircea cel Bătrân, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 13:59:45
+Minerva, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 14:03:18
+20-24, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 14:07:16
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:10:46
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:14:10
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:17:46
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:21:18
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:24:47
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:28:47
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:32:17
+Dacia, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:35:48
+Dacia, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 14:39:20
+D1A, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 14:42:44
+Pasajul Alexandru cel Bun, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 14:46:20
+Gara Internațională: Nicolina, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700257, România; 2022-05-29 14:50:15
+F1, 61, Bulevardul Nicolae Iorga, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700205, România; 2022-05-29 14:53:48
+C.E.T., Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 14:57:15
+C.F.S., Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 15:00:46
+Pod Metalurgie, Strada Vasile Lupu, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 15:04:18
+Flux, Strada Vasile Lupu, Tătărași Sud, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 15:07:51
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 15:11:48
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 15:15:18
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 15:18:50
+V2, 89, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 15:22:21
+ROST CONSTRUCT, 140D, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 15:25:50
+Calea Chișinăului, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 15:29:45
+C.E.T., Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 15:33:15
+Piața Nicolina, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 15:36:46
+A12, 41A, Bulevardul Nicolae Iorga, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700211, România; 2022-05-29 15:40:18
+Podul de Piatră, Șoseaua Națională, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700239, România; 2022-05-29 15:43:47
+Smart Computers, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700632, România; 2022-05-29 15:47:51
+Mediget, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 15:51:17
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 15:54:47
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 15:58:17
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 16:01:43
+Dacia, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 16:05:18
+Dacia, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 16:09:18
+D1A, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 16:12:47
+Pasajul Alexandru cel Bun, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 16:16:19
+Gara Internațională: Nicolina, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700257, România; 2022-05-29 16:19:47
+Piața Nicolina, Bulevardul Nicolae Iorga, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 16:23:18
+C.E.T., Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 16:27:19
+C.F.S., Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 16:30:47
+J11, 152, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700360, România; 2022-05-29 16:34:18
+V1, 93, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 16:37:50
+Bicaz, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 18:42:20
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 18:46:16
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 18:49:47
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 18:53:17
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 18:56:47
+Zimbru, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 19:00:19
+1212, 12, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 19:04:14
+Fresh, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 19:07:47
+Vama, Bulevardul Nicolae Iorga, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 19:11:15
+Rompetrol, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 19:14:46
+Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 19:18:46
+CFS 2, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 19:22:19
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:25:48
+D1, 83, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 19:29:21
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 19:32:49
+D1, 83, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 19:36:48
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 19:40:20
+Piața Ing. Virgil Săhleanu, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 19:43:51
+Moldoplast, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700264, România; 2022-05-29 19:47:20
+Piața Nicolina, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 19:51:18
+N1, 35, Bulevardul Nicolae Iorga, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700256, România; 2022-05-29 19:54:47
+Pasajul Alexandru cel Bun, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 19:58:18
+Y1, 49, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700634, România; 2022-05-29 20:01:48
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:21:20
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:24:49
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:28:19
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:31:49
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:35:47
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:37:50
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:37:50
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:37:50
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:55:51
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 20:59:14
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:02:44
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:06:14
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:10:19
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:11:15
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:11:15
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 21:11:15

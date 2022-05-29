@@ -1,0 +1,155 @@
+ProsPer Shop, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:09:49
+R1, 59B, Bulevardul Nicolae Iorga, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 10:12:45
+Vama, Bulevardul Nicolae Iorga, Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 10:15:49
+Souflaki, 4A, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 10:18:48
+Familial, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 10:21:50
+Zimbru, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700634, România; 2022-05-29 10:24:18
+DE4, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700428, România; 2022-05-29 10:27:20
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 10:30:16
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 10:33:17
+Dacia, Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 10:36:17
+Dosis, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 10:39:16
+Dr. Max, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 10:42:19
+DN28, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, România; 2022-05-29 10:45:17
+Fresh, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 10:48:16
+Vama, Bulevardul Nicolae Iorga, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 10:51:19
+Piața Nicolina N, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 10:54:16
+P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 10:57:17
+C.E.T., Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 11:00:17
+CFS, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 11:03:18
+Pod Metalurgie, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 11:06:20
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 11:09:19
+K1, 4A, Strada Pictorului, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700321, România; 2022-05-29 11:12:19
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 11:15:20
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 11:18:15
+V1, 93, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 11:21:18
+G, 148, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700360, România; 2022-05-29 11:24:19
+Piața Ing. Virgil Săhleanu, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 11:27:18
+Strada Bucium, Zona Industrială, Baza 3, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 11:30:19
+Leroy Merlin, 23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700265, România; 2022-05-29 11:33:18
+Țesătura, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 11:36:18
+R1, 59B, Bulevardul Nicolae Iorga, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 11:39:15
+Dr.Max, Bulevardul Nicolae Iorga, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700211, România; 2022-05-29 11:42:19
+Șoseaua Națională, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700239, România; 2022-05-29 11:45:19
+Minerva, Bulevardul Alexandru cel Bun, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700631, România; 2022-05-29 11:48:18
+DA7, 9, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700425, România; 2022-05-29 11:51:19
+Z2, Strada Profesor Ion Simionescu, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:54:20
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 11:57:17
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:00:15
+Strada Tabacului, Dacia, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:03:19
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 12:06:19
+La Umbreluțe, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700428, România; 2022-05-29 12:09:18
+Ochiroș și asociații, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700632, România; 2022-05-29 12:12:49
+Pasajul Alexandru cel Bun, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 12:15:48
+Souflaki, 4A, Bulevardul Nicolae Iorga, Galata, Iași, Zona Metropolitană Iași, Iași, 700260, România; 2022-05-29 12:18:48
+Vama, Bulevardul Nicolae Iorga, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700212, România; 2022-05-29 12:21:46
+Piața Nicolina N, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 12:24:46
+P1, 11, Bulevardul Primăverii, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700189, România; 2022-05-29 12:27:48
+Leroy Merlin, 23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700265, România; 2022-05-29 12:30:48
+CFS, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 12:33:48
+CFS 2, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 12:36:49
+ROST CONSTRUCT, 140D, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:39:48
+V2, 89, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 12:42:48
+30, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700321, România; 2022-05-29 12:45:48
+SCTP Iași, Strada Ion Creangă, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700317, România; 2022-05-29 12:48:49
+Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 12:51:49
+Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 12:54:47
+Katty Fashion, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 13:06:19
+Piața Nicolina, Bulevardul Nicolae Iorga, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700214, România; 2022-05-29 13:10:18
+F6, 7C, Bulevardul Nicolae Iorga, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700256, România; 2022-05-29 13:13:49
+Lacta Han Prod, Pasajul Alexandru cel Bun, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700585, România; 2022-05-29 13:17:17
+E2, 37, Bulevardul Alexandru cel Bun, Alexandru Cel Bun, Iași, Zona Metropolitană Iași, Iași, 700633, România; 2022-05-29 13:20:50
+SC8, 32, Bulevardul Dacia, Dacia, Iași, Zona Metropolitană Iași, Iași, 700426, România; 2022-05-29 13:24:20
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700435, România; 2022-05-29 13:27:49
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:31:17
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:34:47
+Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 13:38:17
+DN28, Rond Păcurari, Iași, Zona Metropolitană Iași, Iași, 700552, România; 2022-05-29 13:41:48
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:45:47
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:49:16
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:52:50
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:56:19
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 13:59:49
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:03:19
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:07:20
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:10:50
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:14:20
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:17:48
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:21:16
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:24:46
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:28:49
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:32:20
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52
+Strada Strămoșilor, Canta, Iași, Zona Metropolitană Iași, Iași, 700440, România; 2022-05-29 14:34:52

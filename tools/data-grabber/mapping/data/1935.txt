@@ -1,0 +1,155 @@
+595, 1, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 10:09:49
+504, 25;27;29, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 10:12:48
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 10:15:48
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 10:18:45
+D2, 8, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 10:21:49
+Octav Băncilă, Străpungerea Silvestru, Canta, Gară, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 10:24:19
+5, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 10:27:20
+5, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 10:30:19
+National Office Center, Bulevardul Regele Mihai I al României, Podu Roș, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 10:33:19
+D2, 3, Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700186, România; 2022-05-29 10:36:19
+Rodotex, 27, Bulevardul Socola, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 10:39:19
+Frigorifer, 16, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700269, România; 2022-05-29 10:42:20
+Continental Automotive România, 1, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 10:45:19
+Blocuri Cetățuia, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 10:48:15
+eMAG easybox, Bulevardul Poitiers, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 10:51:19
+Selgros, Bulevardul Poitiers, C.U.G., CUG, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 10:54:18
+Selgros, Bulevardul Poitiers, C.U.G., CUG, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 10:57:19
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 11:00:16
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 11:03:19
+Bazar, Bulevardul Poitiers, Clopotari, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 11:06:19
+B2, 45-47-49-51, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700669, România; 2022-05-29 11:09:19
+Socar, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 11:12:18
+Granit, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 11:15:20
+T2, 20, Bulevardul Socola, Podu Roș, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700187, România; 2022-05-29 11:18:19
+Podu' Roș, Bulevardul Regele Mihai I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 11:21:18
+B6, 27, Splai Bahlui Mal Stâng, Podu Roș, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700031, România; 2022-05-29 11:24:20
+Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 11:27:19
+7, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 11:30:16
+vulcanizare, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700527, România; 2022-05-29 11:33:19
+450, 15;17, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 11:36:18
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 11:39:15
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 11:42:17
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 11:45:19
+Sergent Gr. Ioan, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 11:48:17
+Axa Farm, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700527, România; 2022-05-29 11:51:19
+Gara, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 11:54:19
+Pasaj Alexandru cel Bun, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 11:57:18
+Pod Cantemir, Bulevardul Regele Mihai I al României, Podu Roș, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 12:00:20
+Sedcom Libris (Bloc Cotnari), Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700186, România; 2022-05-29 12:03:16
+Dedeman, DN24, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700187, România; 2022-05-29 12:06:18
+Frigorifer, 16, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700269, România; 2022-05-29 12:09:15
+B10, 25C, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 12:12:47
+G2, 53, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700669, România; 2022-05-29 12:15:48
+Dozator lapte crud Argotica Viișoara, Bulevardul Poitiers, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:18:47
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:21:45
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:24:47
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:27:49
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:30:49
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 12:33:46
+Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 12:36:50
+Liceul CUG, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 12:39:49
+Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700267, România; 2022-05-29 12:42:48
+Frigorifer, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 12:45:47
+H2, 8A, Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700194, România; 2022-05-29 12:48:49
+Podu' Roș, Bulevardul Regele Mihai I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 12:51:46
+Blue Gifts, Bulevardul Regele Ferdinand I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 12:54:46
+595, 1, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700536, România; 2022-05-29 13:06:18
+520, 49;51, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 13:10:16
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 13:13:45
+68, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 13:17:19
+537, 2-6, Aleea Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700534, România; 2022-05-29 13:20:47
+Minelli service, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 13:24:20
+L3;1;3, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 13:27:48
+XWiki Software SRL, 178-180, Șoseaua Națională, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700239, România; 2022-05-29 13:31:20
+Podu Roș, Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700194, România; 2022-05-29 13:34:50
+140, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 13:38:20
+Esenzza, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 13:41:50
+G2, 53, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700669, România; 2022-05-29 13:45:49
+Dozator lapte crud Argotica Viișoara, Bulevardul Poitiers, Clopotari, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 13:49:19
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 13:52:47
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 13:56:17
+Selgros, Bulevardul Poitiers, C.U.G., CUG, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 13:59:50
+B2, 45-47-49-51, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700669, România; 2022-05-29 14:03:20
+Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700267, România; 2022-05-29 14:07:19
+Casa Sindicatelor, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 14:10:51
+F (1001 articole), 2, Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700194, România; 2022-05-29 14:14:14
+Bulevardul Regele Ferdinand I al României, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700259, România; 2022-05-29 14:17:50
+T1 (2), Strada Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:21:18
+Gran Gusto, I3, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:24:49
+454, 9-13, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 14:28:50
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 14:32:19
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 14:35:49
+Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 14:39:19
+537, 2-6, Aleea Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700534, România; 2022-05-29 14:42:49
+T1b, 16;18;20;26, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 14:46:18
+5, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:50:20
+Pod Cantemir, Bulevardul Regele Mihai I al României, Podu Roș, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 14:53:47
+Sedcom Libris (Bloc Cotnari), Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700186, România; 2022-05-29 14:57:18
+A1, 57, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 15:00:50
+B5, 5;31, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700670, România; 2022-05-29 15:04:19
+Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 15:07:51
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 15:11:50
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 15:15:21
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 15:18:49
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 15:22:17
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 15:25:46
+Blocuri Cetățuia, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 15:29:46
+Cămine CUG, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 15:33:19
+A1, 57, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 15:36:46
+Agapa, Bulevardul Socola, Podu Roș, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700187, România; 2022-05-29 15:40:20
+Biserica Lipovenească, Bulevardul Regele Ferdinand I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 15:43:51
+Velaria, 31, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:47:51
+Gara, Strada Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:51:16
+Substația de ambulanță Păcurari, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700514, România; 2022-05-29 15:54:50
+509, 43;45;47, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 15:58:19
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 16:01:50
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 16:05:19
+532, 32;34;36, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 16:09:18
+597, 13;15;17, Șoseaua Moara de Foc, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700527, România; 2022-05-29 16:12:50
+Gara, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 16:16:19
+DN28, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, România; 2022-05-29 16:19:50
+Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 16:23:19
+Bl.Z1, 34, Bulevardul Socola, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 16:27:19
+INCOM 1, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 16:30:50
+Blocuri Cetățuia, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 16:34:21
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 16:37:47
+Billa, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 18:42:20
+Moara 1 Mai, Strada Canta, Canta, Dacia, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 18:46:20
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 18:49:47
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 18:53:19
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 18:56:50
+532, 32;34;36, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 19:00:21
+T34, 44;46;48;50;52;54, Străpungerea Silvestru, Canta, Gară, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 19:04:20
+Oficiul Poștal Iași 2, Strada Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 19:07:51
+Pod Cantemir, Bulevardul Regele Mihai I al României, Podu Roș, Cantemir, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 19:11:20
+Casa de Cultură a Sindicatelor, 134, Bulevardul Socola, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700187, România; 2022-05-29 19:14:49
+INCOM 1, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 19:18:48
+G2, 53, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700669, România; 2022-05-29 19:22:16
+Bazar, Bulevardul Poitiers, Clopotari, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 19:25:49
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 19:29:18
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 19:32:46
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 19:36:49
+Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 19:40:20
+Continental, Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 19:43:51
+Liceul Tehnologic Petru Poni, 110, Bulevardul Socola, Bularga, Iași, Zona Metropolitană Iași, Iași, 700268, România; 2022-05-29 19:47:20
+H1, 18, Bulevardul Socola, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700195, România; 2022-05-29 19:51:19
+Bulevardul Regele Ferdinand I al României, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700031, România; 2022-05-29 19:54:50
+Subpasaj ACB, Strada Silvestru, Alexandru cel Bun, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 19:58:18
+Gran Gusto, I3, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 20:01:47
+Canta, Strada Luca Arbore, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 20:21:20
+Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700547, România; 2022-05-29 20:24:49
+Sergent Gr. Ioan, Strada Canta, Canta, Iași, Zona Metropolitană Iași, Iași, 700530, România; 2022-05-29 20:28:20
+Octav Băncilă, Străpungerea Silvestru, Canta, Gară, Iași, Zona Metropolitană Iași, Iași, 700135, România; 2022-05-29 20:31:50
+Gara, Strada Silvestru, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 20:35:50
+Bulevardul Regele Mihai I al României, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 20:39:20
+Bulevardul Poitiers, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700671, România; 2022-05-29 20:48:21
+Blocuri Cetățuia, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 20:51:50
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 20:55:47
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 20:59:17
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 21:02:46
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 21:06:16
+Rond CUG 1 (Selgros), Bulevardul Poitiers, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700689, România; 2022-05-29 21:10:19
+Liceul CUG, Bulevardul Poitiers, Frumoasa, Iași, Zona Metropolitană Iași, Iași, 700680, România; 2022-05-29 21:14:20
+RVR, Bulevardul Socola, Manta Roșie, Iași, Zona Metropolitană Iași, Iași, 700267, România; 2022-05-29 21:17:50
+Casa Sindicatelor, Bulevardul Socola, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700187, România; 2022-05-29 21:21:20

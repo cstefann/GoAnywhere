@@ -1,0 +1,154 @@
+928, 1-5, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 10:09:49
+Pasaj Nicolina, Șoseaua Nicolina, Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700224, România; 2022-05-29 10:12:49
+Podu' Roș, Bulevardul Regele Mihai I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 10:15:46
+4, Strada Palat, Centru, Iași, Zona Metropolitană Iași, Iași, 700032, România; 2022-05-29 10:18:48
+Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 10:21:50
+Bloc C1-5, Sc. C2, 27, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 10:24:16
+Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 10:27:17
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 10:30:17
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 10:33:19
+Pasajul Mihai Eminescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700511, România; 2022-05-29 10:36:18
+I1;I2, Strada Vasile Alecsandri, Centru, Iași, Zona Metropolitană Iași, Iași, 700098, România; 2022-05-29 10:39:18
+Casa de la Cinci Drumuri, 15, Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700029, România; 2022-05-29 10:42:20
+Hotel Moldova, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 10:45:18
+Strada Palat, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 10:48:18
+Pod Nicolina, Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 10:51:19
+971B, 44-46, Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700735, România; 2022-05-29 10:54:18
+986B, 83, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700711, România; 2022-05-29 10:57:19
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 11:00:19
+DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 11:03:19
+Lidl, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:06:19
+Blocuri Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:09:16
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:12:19
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:15:20
+La Castele, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:18:16
+Horpaz, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 11:21:18
+Centrul Expozițional Moldova, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 11:24:20
+Biserica Înălțarea Domnului, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 11:27:19
+952, 19, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 11:30:19
+Șoseaua Nicolina, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700204, România; 2022-05-29 11:33:18
+Strada Palat, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 11:36:19
+Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 11:39:18
+Palatul de Justiție, 1A, Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 11:42:18
+Spitalul Clinic Județean de Urgențe "Sf. Spiridon", 1, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 11:45:18
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 11:48:16
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 11:51:18
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 11:54:20
+Pasajul Mihai Eminescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700511, România; 2022-05-29 11:57:15
+Piața Mihail Eminescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 12:00:20
+Y2, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700115, România; 2022-05-29 12:03:19
+Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 12:06:17
+Dosoftei, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 12:09:17
+Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 12:12:49
+Șoseaua Nicolina, Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700204, România; 2022-05-29 12:15:49
+938, 13, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 12:18:49
+987, 68-72, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700684, România; 2022-05-29 12:21:46
+Centrul Expozițional Moldova, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:24:46
+Oțelărie, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 12:27:49
+Restyle Auto, 263, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:30:50
+Cartier Astoria, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:33:49
+Gara Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:36:48
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:39:48
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:42:50
+DJ248C, Lunca Cetățuii, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:45:50
+Lidl, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 12:48:49
+Baza nautică, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 12:51:49
+CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 12:54:49
+C7, 2, Strada Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700220, România; 2022-05-29 13:06:19
+Congress Hall, Strada Palat, Centru, Iași, Zona Metropolitană Iași, Iași, 700028, România; 2022-05-29 13:10:20
+Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 13:13:49
+Bloc C1-5, Sc. C3, 29, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 13:17:17
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 13:20:50
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 13:24:20
+Across Travels, 26, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 13:27:49
+Hotel Moldova, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700025, România; 2022-05-29 13:31:19
+Strada Nicolina, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 13:34:50
+Cobyul, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 13:38:22
+Mega Image, Șoseaua Nicolina, CUG, Iași, Zona Metropolitană Iași, Iași, 700688, România; 2022-05-29 13:41:50
+1005, 104-114, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700710, România; 2022-05-29 13:45:50
+Baza nautică, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 13:49:19
+DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 13:52:50
+Ocolul Silvic Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 13:56:18
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 13:59:46
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 14:03:17
+Magazin Mixt, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 14:07:20
+DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 14:10:48
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 14:14:20
+Bulevardul Poitiers, Nicolina 1, Valea Adâncă, Iași, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 14:17:48
+Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700729, România; 2022-05-29 14:21:20
+Piața Podu Roș, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 14:24:50
+Hotel Moldova, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 14:28:49
+C1-5, 25-33, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700102, România; 2022-05-29 14:32:16
+7-13, bloc D1-2, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 14:35:51
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 14:39:20
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 14:42:50
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 14:46:20
+Spitalul Clinic Județean de Urgențe "Sf. Spiridon", 1, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 14:50:19
+Palatul de Justiție, 1A, Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 14:53:51
+Casa Dosoftei, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 14:57:20
+Piața Podu Roș, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 15:00:50
+Pod Nicolina, Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 15:04:18
+986A, 75-81, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700711, România; 2022-05-29 15:07:50
+153, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 15:11:49
+Horpaz, DJ248, Lunca Cetățuii, Miroslava, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 15:15:21
+DJ248C, Lunca Cetățuii, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 15:18:51
+Ocolul Silvic Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 15:22:20
+DJ248C, Lunca Cetățuii, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 15:25:50
+DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 15:29:50
+Tehnopolis, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700713, România; 2022-05-29 15:33:18
+CUG 1, Șoseaua Nicolina, CUG, Iași, Zona Metropolitană Iași, Iași, 700735, România; 2022-05-29 15:36:50
+Pod Nicolina, Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 15:40:20
+Podu' Roș, Bulevardul Regele Mihai I al României, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 15:43:49
+Hotel Moldova, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700025, România; 2022-05-29 15:47:51
+Târgu Cucu, Strada Sărărie, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 15:51:20
+Spitalul Clinic Județean de Urgențe "Sf. Spiridon", 1, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 15:54:50
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 15:58:16
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 16:01:46
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 16:05:21
+SCTP Iași, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700106, România; 2022-05-29 16:09:17
+Târgu Cucu, Strada Sărărie, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 16:12:48
+Hotel Moldova, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 16:16:20
+Strada Palat, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 16:19:50
+Pod Nicolina, Șoseaua Nicolina, Nicolina 1, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 16:23:20
+1001, 88-92, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700684, România; 2022-05-29 16:27:20
+153, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 16:30:47
+Restyle Auto, 263, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 16:34:21
+Servicii Publice Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 16:37:50
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 18:42:18
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 18:46:16
+R1, R2, R3, R4, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 18:49:49
+Hotel Europa, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 18:53:20
+4, Strada Palat, Centru, Iași, Zona Metropolitană Iași, Iași, 700032, România; 2022-05-29 18:56:50
+Strada Nicolina, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700780, România; 2022-05-29 19:00:20
+928, 1-5, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 19:04:21
+Biserica Înălțarea Domnului, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 19:07:51
+Oțelărie, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 19:11:17
+Lidl, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 19:14:46
+Ocolul Silvic Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 19:18:49
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 19:22:18
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 19:25:48
+La Castele, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 19:29:20
+Baza nautică, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 19:32:48
+1004, 105-113, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 19:36:50
+957, 25, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 19:40:20
+SCTP Iași, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700731, România; 2022-05-29 19:43:47
+Sala Polivalenta, Strada Palat, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700051, România; 2022-05-29 19:47:18
+21-23, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700025, România; 2022-05-29 19:51:16
+Târgu Cucu, Strada Sărărie, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 19:54:50
+Strada Nicolae Bălcescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700111, România; 2022-05-29 19:58:19
+Fostul Hotel Binder, Bulevardul Independenței, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 20:01:50
+C9, 4, Strada Nicolina, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700220, România; 2022-05-29 20:21:19
+928, 1-5, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700722, România; 2022-05-29 20:24:49
+Biserica Înălțarea Domnului, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 20:28:20
+Oțelărie, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 20:31:48
+Lidl, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 20:35:49
+Blocuri Ciurea, Strada Gării, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 20:39:18
+magazin alimentar, DJ248C, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 20:48:20
+La Castele, DJ248, Lunca Cetățuii, Ciurea, Zona Metropolitană Iași, Iași, 707085, România; 2022-05-29 20:51:50
+Oțelărie, DJ248, Valea Adâncă, Miroslava, Zona Metropolitană Iași, Iași, 707317, România; 2022-05-29 20:55:50
+1004, 105-113, Șoseaua Nicolina, C.U.G., CUG, Iași, Zona Metropolitană Iași, Iași, 700690, România; 2022-05-29 20:59:20
+958, 27-29, Șoseaua Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700688, România; 2022-05-29 21:02:50
+Pasaj Nicolina, Șoseaua Nicolina, Nicolina, Nicolina 2, Iași, Zona Metropolitană Iași, Iași, 700224, România; 2022-05-29 21:06:20
+Strada Palat, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 21:10:19
+Hampton by Hilton Iasi, 26, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700020, România; 2022-05-29 21:14:19
+Târgu Cucu, Strada Sărărie, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 21:17:48
