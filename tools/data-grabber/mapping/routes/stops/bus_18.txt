@@ -1,0 +1,8 @@
+Tătărași Sud,47.15622,27.62392
+Str. Locotenent Popovici,47.15714,27.62734
+Str. Aviației,47.15897,27.63014
+Str. Moților,47.16057,27.63022
+Str. Mistrețului,47.16216,27.63048
+Str. Aeroportului,47.161989,27.62645
+Str. A. Obreja,47.1602,27.62661
+Tătărași Sud,47.15626,27.62394

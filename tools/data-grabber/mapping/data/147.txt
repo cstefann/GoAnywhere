@@ -1,154 +1,492 @@
-Sala Unirii, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 10:09:48
-Filarmonica de Stat „Moldova” Iași, 29, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700037, România; 2022-05-29 10:12:48
-SCTP Iași, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 10:15:48
-Centru, Iași, Zona Metropolitană Iași, Iași, 700019, România; 2022-05-29 10:18:47
-Banca Comercială Română Sucursala Iași, 1, Strada Palat, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700051, România; 2022-05-29 10:21:46
-Podu Roș (1), Bulevardul Țuțora, Podu Roș, Iași, Zona Metropolitană Iași, Iași, 700161, România; 2022-05-29 10:24:16
-Petrom (Chișinăului), 102-104, Calea Chișinăului, Bularga, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 10:27:21
-Tepro, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 10:30:16
-Pod Metalurgie, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 10:33:18
-Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 10:36:19
-Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 10:39:17
-Ateneu, Strada Ion Creangă, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700328, România; 2022-05-29 10:42:19
-Palatul de Justiție, 1A, Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 10:45:18
-SCTP Iași, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 10:48:18
-Colegiul Național, Strada Arcu, Centru, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 10:51:17
-Universitatea Alexandru Ioan Cuza din Iași, 11, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700506, România; 2022-05-29 10:54:18
-Triumf, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 10:57:19
-Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700496, România; 2022-05-29 11:00:19
-Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700496, România; 2022-05-29 11:03:18
-Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 11:06:19
-Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 11:09:17
-Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 11:12:18
-Copou, DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 11:15:20
-Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700487, România; 2022-05-29 11:18:19
-Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 11:21:19
-Statuia Titu Maiorescu, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 11:24:19
-Piața Eminescu, Strada Gavril Muzicescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 11:27:18
-5, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700036, România; 2022-05-29 11:30:19
-SCTP Iași, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 11:33:19
-Big Rent Car, Strada Anastasie Panu, Centru, Iași, Zona Metropolitană Iași, Iași, 700021, România; 2022-05-29 11:36:18
-Centru, Iași, Zona Metropolitană Iași, Iași, 700028, România; 2022-05-29 11:39:15
-Strada Sfântul Lazăr, Podu Roș, Podul Roș, Iași, Zona Metropolitană Iași, Iași, 700238, România; 2022-05-29 11:42:18
-P2, 8, Bulevardul Țuțora, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700190, România; 2022-05-29 11:45:19
-Petrom (Chișinăului), 102-104, Calea Chișinăului, Bularga, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 11:48:20
-Tepro, Calea Chișinăului, Zona Industrială, Iași, Zona Metropolitană Iași, Iași, 700177, România; 2022-05-29 11:51:18
-Pod Metalurgie, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 11:54:17
-Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 11:57:14
-V3, 85, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700319, România; 2022-05-29 12:00:15
-Ateneu, Strada Ion Creangă, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700328, România; 2022-05-29 12:03:19
-6, Strada Pădurii, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700305, România; 2022-05-29 12:06:19
-Spitalul Clinic de Obstetrică-Ginecologie „Cuza Vodă” Iași, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 12:09:16
-Piața Unirii, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700056, România; 2022-05-29 12:12:45
-Palatul Copiilor, 2, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700505, România; 2022-05-29 12:15:50
-34, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 12:18:49
-George Coșbuc, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 12:21:49
-Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 12:24:45
-Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 12:27:49
-Copou, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700469, România; 2022-05-29 12:30:50
-Copou, DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 12:33:48
-Copou, DJ282, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 12:36:47
-Stadion NE, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 12:39:48
-Ristretto Ristorante, 48, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 12:42:50
-Casa Balș, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700505, România; 2022-05-29 12:45:50
-Piața Unirii, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700056, România; 2022-05-29 12:48:50
-33bis, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 12:51:48
-Palatul de Justiție, 1A, Strada Elena Doamna, Centru, Iași, Zona Metropolitană Iași, Iași, 700398, România; 2022-05-29 12:54:47
-Țesătura, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 13:06:18
-S.C. IASI-CONF S.A., 26, Calea Chișinăului, Bularga, Iași, Zona Metropolitană Iași, Iași, 700182, România; 2022-05-29 13:10:20
-Pod Metalurgie, Bulevardul Metalurgiei, Zona Industrială, Metalurgie, Iași, Zona Metropolitană Iași, Iași, 700361, România; 2022-05-29 13:13:49
-Tătărași Sud, Strada Vasile Lupu, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700358, România; 2022-05-29 13:17:18
-Dr. Savini, Strada Vasile Lupu, Tătărași Nord, Iași, Zona Metropolitană Iași, Iași, 700800, România; 2022-05-29 13:20:50
-65, Strada Tătărași, Tătărași, Iași, Zona Metropolitană Iași, Iași, 700397, România; 2022-05-29 13:24:20
-Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 13:27:46
-Transilvania (Unirii), Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700056, România; 2022-05-29 13:31:18
-Casa Balș, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700505, România; 2022-05-29 13:34:50
-Statuia Alexandru Averescu, Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 13:38:23
-76, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700496, România; 2022-05-29 13:41:49
-Arlechino Caffe, Strada Dumitrașcu Cantacuzino, Copou, Iași, Zona Metropolitană Iași, Iași, 700490, România; 2022-05-29 13:45:51
-Stadion NE, Aleea Grigore Ghica Vodă, Copou, Iași, Zona Metropolitană Iași, Iași, 700503, România; 2022-05-29 13:49:20
-E4(28A), Bulevardul Carol I, Copou, Iași, Zona Metropolitană Iași, Iași, 500704, România; 2022-05-29 13:52:49
-Piața Eminescu, Strada Gavril Muzicescu, Centru, Iași, Zona Metropolitană Iași, Iași, 700900, România; 2022-05-29 13:56:16
-Piața Unirii, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700056, România; 2022-05-29 13:59:49
-Urban Pizza, 40, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 14:03:20
-Târgu Cucu, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700073, România; 2022-05-29 14:07:18
-45, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700040, România; 2022-05-29 14:10:52
-Filarmonica de Stat „Moldova” Iași, 29, Strada Cuza Vodă, Centru, Iași, Zona Metropolitană Iași, Iași, 700037, România; 2022-05-29 14:14:20
-Compan, Strada Arcu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700127, România; 2022-05-29 14:17:50
-CL1, Strada Bacinschi, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:21:20
-Gara, Străpungerea Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:24:48
-Oficiul Poștal Iași 2, Strada Silvestru, Gară, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:28:49
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 14:32:20
-Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 14:35:53
-Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 14:39:18
-11, Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 14:42:48
-Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 14:46:18
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 14:50:17
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 14:53:47
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 14:57:17
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 15:00:47
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 15:04:17
-Salvanim, 30, Fundătura Gîndu, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700126, România; 2022-05-29 15:07:48
-11, Strada Sfântul Petru Movilă, Uzinei, Iași, Zona Metropolitană Iași, Iași, 700088, România; 2022-05-29 15:11:46
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
-Strada Silvestru, Podu de Piatră, Iași, Zona Metropolitană Iași, Iași, 700089, România; 2022-05-29 15:13:52
+47.1648432,27.5725046
+47.1648601,27.5724904
+47.1648574,27.5724953
+47.1648581,27.5724943
+47.1648618,27.5724949
+47.164862,27.5724938
+47.1648621,27.5724902
+47.1648349,27.5724904
+47.1648354,27.5724917
+47.1648396,27.5724921
+47.1648421,27.5724909
+47.1648434,27.5724902
+47.1648822,27.5724814
+47.1648823,27.5724816
+47.1648826,27.572482
+47.1648632,27.5725015
+47.1648331,27.5725549
+47.1648286,27.5725516
+47.1648091,27.5725629
+47.1648094,27.5725609
+47.1648094,27.5725609
+47.1648096,27.5725598
+47.1648102,27.5725583
+47.1648105,27.5725575
+47.1648107,27.5725574
+47.1648121,27.5725536
+47.1648126,27.5725527
+47.1648127,27.5725522
+47.1648126,27.5725517
+47.1648214,27.5725604
+47.164823,27.5725599
+47.1648246,27.5725593
+47.1648256,27.5725567
+47.1648486,27.572526
+47.164844,27.5725325
+47.1648483,27.572583
+47.1648446,27.5725594
+47.164843,27.5725536
+47.1648424,27.5725527
+47.1648409,27.5725505
+47.1648397,27.5725458
+47.1648389,27.5725429
+47.1648373,27.57254
+47.164837,27.5725386
+47.1648369,27.5725383
+47.1648364,27.5725374
+47.1648145,27.5725476
+47.1648163,27.5725481
+47.1648162,27.5725468
+47.1648174,27.5725425
+47.1648139,27.5725181
+47.1648157,27.572518
+47.1648464,27.5724931
+47.1648719,27.5725101
+47.1648603,27.5724891
+47.1648577,27.5724809
+47.1648266,27.5724527
+47.1648207,27.5724449
+47.1648218,27.5724513
+47.1648685,27.5724617
+47.1648759,27.5724639
+47.1648769,27.5724652
+47.1648772,27.5724666
+47.1648779,27.5724642
+47.1649065,27.57244
+47.1649429,27.5724688
+47.1649331,27.5724786
+47.1649247,27.5724925
+47.1649184,27.5725127
+47.1649196,27.5725113
+47.1649487,27.5724752
+47.1649455,27.5724549
+47.1649439,27.5724549
+47.1649436,27.5724556
+47.1649439,27.5724557
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706
+47.1649493,27.5724706

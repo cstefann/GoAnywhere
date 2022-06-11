@@ -1,154 +1,265 @@
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:09:48
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:12:45
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:15:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:18:49
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:21:46
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 10:24:15
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:27:16
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:30:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:33:18
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:36:20
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:39:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:42:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:45:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:48:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:51:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 10:54:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 10:57:21
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 11:00:18
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 11:03:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:06:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:09:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:12:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:15:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:18:16
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:21:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:24:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:27:15
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:30:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:33:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:36:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:39:16
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:42:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:45:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:48:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:51:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:54:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 11:57:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:00:14
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:03:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:06:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:09:15
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:12:45
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:15:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:18:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:21:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:24:46
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:27:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:30:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:33:46
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:36:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:39:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:42:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:45:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:48:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:51:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 12:54:46
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:06:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:10:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:13:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:17:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:20:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:24:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:27:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:31:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:34:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:38:22
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:41:46
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:45:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:49:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:52:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:56:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 13:59:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:03:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:07:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:10:51
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:14:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:17:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:21:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:24:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:28:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:32:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:35:52
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:39:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:42:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:46:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:50:16
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 14:53:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 14:57:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:00:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:04:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:07:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:11:48
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 15:15:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:18:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:22:18
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:25:48
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:29:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:33:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:36:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 15:40:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 15:43:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 15:47:51
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:51:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:54:44
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 15:58:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:01:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:05:20
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 16:09:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:12:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:16:20
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 16:19:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:23:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:27:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:30:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:34:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 16:37:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 18:42:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 18:46:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 18:49:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 18:53:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 18:56:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:00:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:04:20
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:07:50
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:11:20
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:14:50
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:18:48
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:22:18
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:25:48
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:29:21
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:32:49
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:36:48
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:40:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:43:49
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:47:19
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:51:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:54:47
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 19:58:17
-23, Calea Chișinăului, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700170, România; 2022-05-29 20:01:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:21:15
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:24:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:28:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:31:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:35:50
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:39:20
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:48:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:51:49
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:55:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 20:59:17
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 21:02:47
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 21:06:16
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 21:10:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 21:14:19
-32, Strada Splai Bahlui Mal Drept, Țesătura, Iași, Zona Metropolitană Iași, Iași, 700290, România; 2022-05-29 21:17:49
+47.1524101,27.6022036
+47.1524108,27.6022106
+47.152416,27.6022173
+47.1524203,27.6022229
+47.1524212,27.6022235
+47.1524222,27.6022232
+47.1524231,27.6022242
+47.1524564,27.6022941
+47.153242,27.6023368
+47.1532415,27.6023621
+47.1532533,27.6023774
+47.1532529,27.6024063
+47.1532552,27.6024059
+47.1532812,27.6023744
+47.1532567,27.602358
+47.1532574,27.6023581
+47.1532574,27.6023584
+47.1532576,27.6023589
+47.1532579,27.6023599
+47.1532549,27.6023453
+47.1532669,27.6023319
+47.1532684,27.6023338
+47.1532606,27.6023334
+47.1532601,27.6023334
+47.1532567,27.6023339
+47.1532562,27.602333
+47.1532551,27.6023334
+47.1532512,27.6023327
+47.1532487,27.6023322
+47.1532497,27.6023325
+47.1532483,27.6023333
+47.1532478,27.6023348
+47.1532478,27.6023357
+47.1532459,27.6023366
+47.1532452,27.6023367
+47.1532439,27.6023365
+47.1532427,27.6023364
+47.1532426,27.6023361
+47.1532428,27.6023364
+47.153243,27.6023366
+47.1532433,27.6023372
+47.1532437,27.6023375
+47.1532434,27.6023374
+47.1532442,27.6023367
+47.1532457,27.602337
+47.1532455,27.6023376
+47.153246,27.6023381
+47.153246,27.6023386
+47.1532457,27.6023396
+47.1532461,27.6023401
+47.1532507,27.6023504
+47.1532512,27.6023514
+47.1532512,27.6023527
+47.1532512,27.6023541
+47.1532743,27.6023861
+47.1532749,27.6023825
+47.1532745,27.6023856
+47.1532735,27.6023837
+47.1532729,27.602381
+47.1532728,27.6023797
+47.1532732,27.6023794
+47.1532742,27.602379
+47.1532745,27.6023775
+47.153274,27.6023509
+47.1532783,27.6023529
+47.1532789,27.6023523
+47.153279,27.6023527
+47.1532793,27.6023541
+47.1532801,27.6023543
+47.1532803,27.6023557
+47.1532787,27.6023357
+47.15328,27.6023381
+47.1532529,27.6023533
+47.1532524,27.6023548
+47.1532521,27.6023552
+47.1532446,27.6023592
+47.1532436,27.6023504
+47.1532417,27.6023512
+47.153241,27.6023506
+47.1532412,27.6023512
+47.1532415,27.6023518
+47.1532415,27.6023524
+47.1532419,27.6023527
+47.1532416,27.6023528
+47.1532596,27.6023346
+47.153258,27.6023373
+47.1532568,27.6023396
+47.1532556,27.6023408
+47.1532552,27.6023413
+47.1532548,27.6023412
+47.1532517,27.6023277
+47.1532434,27.602299
+47.1532498,27.6023144
+47.1532531,27.6023276
+47.1532381,27.6023729
+47.153237,27.6023749
+47.1532371,27.6023736
+47.1532268,27.6023835
+47.1532309,27.6023414
+47.1532308,27.6023425
+47.1532302,27.6023438
+47.1532297,27.6023458
+47.1532304,27.602357
+47.1532257,27.6023576
+47.1532353,27.6023566
+47.1532275,27.6023543
+47.1532221,27.6023545
+47.1532214,27.602354
+47.1532204,27.6023534
+47.1532196,27.6023532
+47.1532193,27.6023529
+47.1532188,27.6023522
+47.1532188,27.6023519
+47.1532062,27.6023649
+47.1532137,27.6023491
+47.153214,27.6023492
+47.1532146,27.6023487
+47.1532442,27.6023379
+47.153257,27.6023489
+47.1532545,27.6023466
+47.1532548,27.6023468
+47.1532103,27.6023968
+47.1532093,27.6023985
+47.1532412,27.6023829
+47.1532465,27.6023655
+47.1532526,27.6023717
+47.1532501,27.6023707
+47.1532668,27.6023644
+47.1532678,27.6023637
+47.1532677,27.6023621
+47.1532673,27.6023612
+47.1532843,27.602346
+47.1532786,27.6023436
+47.1532773,27.6023742
+47.1532749,27.6023752
+47.1532687,27.6023744
+47.1532456,27.6023437
+47.1532605,27.6023309
+47.1532603,27.6023309
+47.1532597,27.602331
+47.1532486,27.6023297
+47.1532354,27.6023368
+47.1532347,27.6023392
+47.1532337,27.6023438
+47.1532668,27.6023708
+47.1532609,27.6023655
+47.1532556,27.6023637
+47.1532556,27.6023645
+47.1532547,27.6023646
+47.1532541,27.6023647
+47.1532545,27.6023647
+47.153236,27.6023724
+47.153238,27.6023707
+47.1532379,27.6023708
+47.1532375,27.6023704
+47.1532377,27.6023702
+47.1532384,27.6023693
+47.1532388,27.6023697
+47.1532394,27.6023687
+47.1532403,27.6023691
+47.1532416,27.6023675
+47.1532401,27.6023663
+47.1532399,27.6023628
+47.1532388,27.6023554
+47.1532393,27.6023541
+47.1532393,27.6023547
+47.1532403,27.6023537
+47.1532411,27.6023538
+47.1532413,27.6023535
+47.153241,27.6023544
+47.153241,27.6023556
+47.1532218,27.6023428
+47.1532064,27.6023366
+47.1532058,27.6023387
+47.1532055,27.6023408
+47.1532051,27.6023427
+47.153205,27.6023444
+47.1532463,27.6023294
+47.1532519,27.6023258
+47.1532498,27.6023271
+47.1532488,27.6023275
+47.1532479,27.6023277
+47.1532471,27.602328
+47.1532463,27.6023279
+47.1532456,27.602327
+47.1532459,27.6023257
+47.1532457,27.6023252
+47.1532455,27.6023251
+47.153245,27.6023257
+47.1532454,27.6023259
+47.1532456,27.6023261
+47.1532456,27.6023257
+47.1532449,27.6023255
+47.1532474,27.6023271
+47.1532466,27.6023284
+47.1532462,27.6023292
+47.1532458,27.6023295
+47.1532453,27.6023302
+47.1532445,27.6023315
+47.153244,27.6023317
+47.153244,27.6023313
+47.1532455,27.6023311
+47.1532457,27.6023315
+47.1532459,27.6023316
+47.153246,27.6023319
+47.1532463,27.6023319
+47.1532463,27.6023315
+47.153252,27.6023285
+47.1532424,27.6023268
+47.1532419,27.6023291
+47.1532613,27.6023284
+47.1532611,27.6023288
+47.1532608,27.6023298
+47.1532609,27.602332
+47.1532605,27.6023324
+47.1532597,27.6023336
+47.153259,27.6023349
+47.1532582,27.6023367
+47.1532582,27.602339
+47.1532582,27.6023401
+47.1532584,27.6023416
+47.1532586,27.6023437
+47.1532591,27.602343
+47.1532592,27.6023427
+47.1532595,27.6023422
+47.1532591,27.6023429
+47.1532588,27.6023428
+47.1532589,27.6023431
+47.1532591,27.6023416
+47.1532508,27.6023488
+47.1532583,27.6023496
+47.1532693,27.6023593
+47.1532697,27.6023601
+47.1532709,27.6023597
+47.1532721,27.6023597
+47.1532724,27.6023594
+47.153272,27.602359
+47.1532716,27.6023586
+47.1532716,27.6023581
+47.1532712,27.6023574
+47.1532712,27.6023567
+47.1532709,27.6023553
+47.1532698,27.6023538
+47.15327,27.6023518
+47.1532703,27.6023504
+47.1532759,27.6023136
+47.1532752,27.6023139
+47.1532745,27.6023147
+47.1532743,27.6023166
+47.1532743,27.6023164
+47.1532743,27.6023156
+47.1532747,27.6023141
+47.1532748,27.6023137
+47.1532745,27.6023131
+47.1532742,27.6023116
+47.1532744,27.6023112
+47.1532742,27.6023122
+47.1532748,27.6023129
+47.152118,27.6014809
+47.1521169,27.6014812
+47.1521165,27.601481
+47.1521164,27.6014808
+47.1521191,27.6015032
+47.1521191,27.601504
+47.1521192,27.6015032

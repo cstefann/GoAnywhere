@@ -1,0 +1,14 @@
+Tg. Cucu,47.1643,27.59083
+Colegiul Economic Administrativ,47.166642,27.589745
+Str. Mihai Eminescu,47.168997,27.588197
+Str. Nicolae Bălcescu,47.172812,27.583941
+Bojdeuca Ion Creangă,47.17453037549941,27.581959962727225
+Centrul Rezidențial pentru Mame și Copii,47.176618,27.579182
+Str. Lascăr Catargi,47.178781,27.575445
+Str. Mihai Costăchescu,47.18311,27.570283
+Exclusive Residence,47.186037,27.567398
+Târgușor Copou,47.188241,27.565273
+Str. Caprelor,47.192518,27.562622
+Str. Ursulea,47.203416,27.552342
+Pod Cacaina,47.20343,27.559145
+Bulevardul C.A.Rosetti,47.17494,27.58808
