@@ -1,4 +1,5 @@
 from haversine import haversine, Unit
+import routegrabber as rg
 from formatting import formatter as f
 from datetime import date
 import os.path as path
@@ -6,7 +7,6 @@ import os as os
 
 # Constant #
 dataPath = "data/"
-patternPath = "routes/shapes/"
 outputPath= "mapper_outputs/"
 filteredPath = "filtered-data/"
 # Constants - End #
@@ -24,22 +24,20 @@ Searches every line from pattern into data file and when
 current line from pattern is found as an substring in one of datafile
 line, a match is counted and goes to the next line.
 '''
-def match_ratio(dataFile, patternFile):
+def match_ratio(dataFile, patternArr):
     matchCounter = 0
-    patternCounter = 0
-    with open(dataFile) as data, open(patternFile) as pattern:
+    with open(dataFile) as data:
         dataLines = data.readlines()
-        patternLines = pattern.readlines()
-        for patternLine in patternLines:
-            patternCounter = patternCounter + 1
-            patternCoord = convertor(patternLine)
-            # patternCoord = convertor(patternLine.split(",")[1] + "," + patternLine.split(",")[2])
+        for iter in patternArr:
             for dataLine in dataLines:
                 dataCoord = convertor(dataLine)
-                if (distance(patternCoord, dataCoord) < 11.0):
+                if (distance(iter, dataCoord) < 11.0):
                     matchCounter = matchCounter + 1
                     break
-    return [str(dataFile).split("/")[1], matchCounter / patternCounter]
+    if (matchCounter == 0):
+        return [str(dataFile).split("/")[1], 0]
+    else:
+        return [str(dataFile).split("/")[1], matchCounter / len(patternArr)]
 
 '''
 Function that takes every pattern and verifies it with all the datafiles
@@ -50,23 +48,25 @@ After that, it generates a file where the mappings will be avalible, e. g:
 '''
 def mapper():
     dataFiles = os.listdir(f.elim_noise(dataPath))
-    patternFiles = os.listdir(f.elim_noise(patternPath))
     currDate = str(date.today())
+    dataArr = rg.iterator("shapes")
     if (path.exists(outputPath + currDate + ".txt") == False):
         outFile = open(outputPath + currDate + ".txt", "x")
     else:
         outFile = open(outputPath + currDate + ".txt", "w")
-    for p in patternFiles:
-        print("[debug] Mapping " + p.split("_", 2)[0] + p.split("_", 2)[1])
-        max = [p,"",0]
+    print("[mapper] Started mapping!")
+    for iter in dataArr:
+        max = [str(iter[0][0]) + " " + str(iter[0][1]),"",0]
+        iter.pop(0)
+        print("[mapper] Mapping " + max[0])
         for d in dataFiles:
             f.elim_duplicates(d, filteredPath)
-            retVal = match_ratio(filteredPath + d, patternPath + p)
+            retVal = match_ratio(filteredPath + d, iter)
             if (retVal[1] > max[2]):
                 max[1] = retVal[0]
                 max[2] = retVal[1]
         outFile.write(str(max) + "\n")
     outFile.close()
-    print("[debug] Done mapping!")
+    print("[mapper] Done mapping!")
 
 mapper()
