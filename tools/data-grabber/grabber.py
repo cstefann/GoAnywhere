@@ -3,7 +3,6 @@ import constants as const
 import requests as req
 import os.path as os
 import json as js
-import time as t
 
 # Request to CTP for grabbing bus data and decode - json #
 def data_downloader(URL):
@@ -25,20 +24,11 @@ def json_parser():
                 f = open(fileName, "x")
             else:
                 f = open(fileName, "a")
-            coordinates = i['vehicleLat'] + "," + i['vehicleLong']
-            f.write(coordinates + "\n")
+            output = i['vehicleLat'] + "," + i['vehicleLong'] + ";" + str(i["vehicleDate"]).split(" ")[1]
+            f.write(output + "\n")
             f.close()
 
 # Function that restarts the grabber script in case of timeouts from CTP Open Data service #
-def restart_uppon_timeout():
-    try:
-        # Loop that permits the grabbing script to continuosly run in background 
-        while (True):
-            print(dt.now().strftime("%H:%M:%S"))
-            json_parser()
-            t.sleep(60)
-    except Exception:
-        print("Restarting ...\n")
-        restart_uppon_timeout()
-
-restart_uppon_timeout()
+def grabber():
+    print(dt.now().strftime("%H:%M:%S"))
+    json_parser()

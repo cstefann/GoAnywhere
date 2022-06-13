@@ -4,6 +4,7 @@ import constants as const
 import requests as req
 import json as js
 import math as m
+import os
 
 # GET request to Wink public API to gether coordinates for destination stop #
 def data_downloader(URL):
@@ -55,9 +56,21 @@ def provide_info_route(data, routeNumber):
     print("Numar statii de la locatia curenta la destinatie: " + str(data[routeNumber]["nrStatii"]))
     print("Timp de deplasare locatia curenta la destinatie: " + str(m.ceil(data[routeNumber]["timpDrive"])) + " min")
         
+# Provide last location of a bus/ tram using data files generated from CTP Open Data after mapping #       
+def provide_last_location_bus_tram(filename):
+    with open(filename, 'rb') as data:
+        try:
+            data.seek(-2, os.SEEK_END)
+            while data.read(1) != b'\n':
+                data.seek(-2, os.SEEK_CUR)
+        except OSError:
+            data.seek(0)
+        last_line = data.readline().decode()
+    data.close()
+    return last_line
+
 # For debugging purpose #
 # destCoord = provide_coordinates("Minerva")
 # currentCoord = (47.1665800, 27.5561825) # spoofed current location
 # print(get_routes(currentCoord, destCoord)[0])
 # provide_info_route(get_routes(currentCoord, destCoord)[1], 0)
-get_all_stops()

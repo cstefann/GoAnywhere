@@ -17,7 +17,8 @@ def elim_duplicates(inputFile, path):
     for line in open(dataPath + inputFile, "r"):
         hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
         if hashValue not in hashLines:
-            out.write(line)
+            output = line.split(";")[0] + "\n"
+            out.write(output)
             hashLines.add(hashValue)
     out.close()
 
