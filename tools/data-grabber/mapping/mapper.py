@@ -1,10 +1,14 @@
 from haversine import haversine, Unit
 from formatting import formatter as f
-import constants as const
 import routegrabber as rg
 from datetime import date
 import os.path as path
 import os as os
+
+# Filepaths #
+dataPath = "data/"
+outputPath= "mapper_outputs/"
+filteredPath = "filtered-data/"
 
 # Calculate distance between two coordinates, used on match_ratio #
 def distance(patternCoord, dataCoord):
@@ -40,21 +44,21 @@ After that, it generates a file where the mappings will be avalible, e. g:
 ['tram_3_pattern.txt', 'data/101.txt', 1.0]
 '''
 def mapper():
-    dataFiles = os.listdir(f.elim_noise(const.dataPath))
+    dataFiles = os.listdir(f.elim_noise(dataPath))
     currDate = str(date.today())
     dataArr = rg.iterator("shapes", "id_mapping.txt")
-    if (path.exists(const.outputPath + currDate + ".txt") == False):
-        outFile = open(const.outputPath + currDate + ".txt", "x")
+    if (path.exists(outputPath + currDate + ".txt") == False):
+        outFile = open(outputPath + currDate + ".txt", "x")
     else:
-        outFile = open(const.outputPath + currDate + ".txt", "w")
+        outFile = open(outputPath + currDate + ".txt", "w")
     print("[mapper] Started mapping!")
     for iter in dataArr:
         max = [str(iter[0][0]) + " " + str(iter[0][1]),"",0]
         iter.pop(0)
         print("[mapper] Mapping " + max[0])
         for d in dataFiles:
-            f.elim_duplicates(d, const.filteredPath)
-            retVal = match_ratio(const.filteredPath + d, iter)
+            f.elim_duplicates(d, filteredPath)
+            retVal = match_ratio(filteredPath + d, iter)
             if (retVal[1] > max[2]):
                 max[1] = retVal[0]
                 max[2] = retVal[1]

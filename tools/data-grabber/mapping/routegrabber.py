@@ -1,10 +1,12 @@
-import constants as const
 import requests as req
 import json as js
 
+# Wink API URL #
+apiURL = "https://m-go-iasi.wink.ro/apiPublic"
+
 # Grab data for all buses and trams #
 def data_downloader(id):
-    URL = const.apiURL + "/apiPublic/route/byId/" + str(id)
+    URL = apiURL + "/route/byId/" + str(id)
     response = req.get(URL)
     return response.content
 

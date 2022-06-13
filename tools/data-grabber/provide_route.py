@@ -56,7 +56,8 @@ def provide_info_route(data, routeNumber):
     print("Timp de deplasare locatia curenta la destinatie: " + str(m.ceil(data[routeNumber]["timpDrive"])) + " min")
         
 # For debugging purpose #
-destCoord = provide_coordinates("Minerva")
-currentCoord = (47.1665800, 27.5561825) # spoofed current location
+# destCoord = provide_coordinates("Minerva")
+# currentCoord = (47.1665800, 27.5561825) # spoofed current location
 # print(get_routes(currentCoord, destCoord)[0])
-provide_info_route(get_routes(currentCoord, destCoord)[1], 0)
+# provide_info_route(get_routes(currentCoord, destCoord)[1], 0)
+get_all_stops()

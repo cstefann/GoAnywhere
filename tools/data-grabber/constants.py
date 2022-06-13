@@ -7,8 +7,5 @@ addrFormatter = "?format=json&addressdetails=1&viewbox=27.450552,47.041204,27.74
 
 # Filepaths #
 
-dataPath = "data/"
-outputPath= "mapper_outputs/"
-filteredPath = "filtered-data/"
 disfunc = "1970-01-01 02:00:00"
 filePath = "mapping/data/"
