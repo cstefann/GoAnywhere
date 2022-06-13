@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+/tools/data-grabber/mapping/data/.*
+/tools/data-grabber/mapping/filtered-data/.*
+!/.gitignore

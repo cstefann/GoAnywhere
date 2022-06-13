@@ -1,13 +1,14 @@
+import constants as const
 import requests as req
 import json as js
 
-api = "https://m-go-iasi.wink.ro/apiPublic/"
-
+# Grab data for all buses and trams #
 def data_downloader(id):
-    URL = api + "route/byId/" + str(id)
+    URL = const.apiURL + "/apiPublic/route/byId/" + str(id)
     response = req.get(URL)
     return response.content
 
+# Appends to dataArr array all the stops without duplicates for one vehicle #
 def stops(jsonBlob, vehicleID, dataArr):
     for i in jsonBlob["data"]["routeWaypoints"]:
         if (i["name"] != "" and i["name"] != None):
@@ -24,16 +25,18 @@ def stops(jsonBlob, vehicleID, dataArr):
             if (appended == False):
                 dataArr.append(outLine)
 
+# Appends to dataArr array all the coordinates that are checked in by a vehicle - used on mapping for relevant results #
 def shapes(jsonBlob, vehicleID, dataArr):
     vehArr = [(str(vehicleID).split("_")[0], str(vehicleID).split("_")[1])]
     for i in jsonBlob["data"]["routeWayCoordinates"]:
         vehArr.append((float(i["lat"]), float(i["lng"])))
     dataArr.append(vehArr)
 
-def iterator(wantedFile):
+# Creates a data array with the selected type - shapes or stops #
+def iterator(wantedFile, id_mapping):
     dataArr = []
     print("[route-grabber] Getting " + wantedFile + " for all vehicles")
-    with open ("id_mapping.txt") as mapped:
+    with open (id_mapping) as mapped:
         mappedLine = mapped.readlines()
         for iter in mappedLine:
             line = iter.split(",")
