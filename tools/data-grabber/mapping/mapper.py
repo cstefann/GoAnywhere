@@ -1,14 +1,14 @@
 from haversine import haversine, Unit
-from formatting import formatter as f
-import routegrabber as rg
+from mapping.formatting import formatter as f
+from mapping import routegrabber as rg
 from datetime import date
 import os.path as path
 import os as os
 
 # Filepaths #
-dataPath = "data/"
-outputPath= "mapper_outputs/"
-filteredPath = "filtered-data/"
+dataPath = "mapping/data/"
+outputPath= "mapping/mapper_outputs/"
+filteredPath = "mapping/filtered-data/"
 
 # Calculate distance between two coordinates, used on match_ratio #
 def distance(patternCoord, dataCoord):
@@ -32,9 +32,9 @@ def match_ratio(dataFile, patternArr):
                     matchCounter = matchCounter + 1
                     break
     if (matchCounter == 0):
-        return [str(dataFile).split("/")[1], 0]
+        return [str(dataFile).split("/")[2], 0]
     else:
-        return [str(dataFile).split("/")[1], matchCounter / len(patternArr)]
+        return [str(dataFile).split("/")[2], matchCounter / len(patternArr)]
 
 '''
 Function that takes every pattern and verifies it with all the datafiles
@@ -46,7 +46,7 @@ After that, it generates a file where the mappings will be avalible, e. g:
 def mapper():
     dataFiles = os.listdir(f.elim_noise(dataPath))
     currDate = str(date.today())
-    dataArr = rg.iterator("shapes", "id_mapping.txt")
+    dataArr = rg.iterator("shapes", "mapping/id_mapping.txt")
     if (path.exists(outputPath + currDate + ".txt") == False):
         outFile = open(outputPath + currDate + ".txt", "x")
     else:
@@ -65,5 +65,3 @@ def mapper():
         outFile.write(str(max) + "\n")
     outFile.close()
     print("[mapper] Done mapping!")
-
-mapper()
