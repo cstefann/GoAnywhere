@@ -82,10 +82,10 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
     counter = 1
     for i in data[routeNumber]["routes"][0]["routeWaypoints"]:
         if (i["name"] == data[routeNumber]["routes"][0]["statiePlecareNume"]):
-            output.append("statie " + str(counter) + " (plecare) - " + i["name"])
+            output.append("statie " + str(counter) + " (plecare) - " + f.elim_diacritics(i["name"]))
         elif (i["name"] == data[routeNumber]["routes"][0]["statieSosireNume"]):
-            output.append("statie " + str(counter) + " (sosire) - " + i["name"])
-        else: output.append("statie " + str(counter) + " - " + i["name"])
+            output.append("statie " + str(counter) + " (sosire) - " + f.elim_diacritics(i["name"]))
+        else: output.append("statie " + str(counter) + " - " + f.elim_diacritics(i["name"]))
         counter = counter + 1
     output.append("~")
     currDate = str(date.today())

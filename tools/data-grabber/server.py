@@ -10,9 +10,14 @@ serverPort = 3000
 
 # Function that restarts the grabber script in case of timeouts from CTP Open Data service #
 def grab_data(currTime, run_event):
-    while run_event.is_set():
+    try:
+        # Loop that permits the grabbing script to continuosly run in background     
+        while run_event.is_set():
+            currTime = gb.grabber(currTime)
+            t.sleep(60)
+    except Exception:
+        print("Restarting because of timeout ...\n")
         currTime = gb.grabber(currTime)
-        t.sleep(60)
 
 def server_response(self, response, content):
     self.send_response(200)

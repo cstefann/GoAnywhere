@@ -7,6 +7,20 @@ noise = ".DS_Store"
 dataPath = "mapping/data/"
 # Constants - End #
 
+# Eliminate diacritics from output to solve encoding issues #
+def elim_diacritics(text):
+     text = text.replace('â', 'a')
+     text = text.replace('ă', 'a')
+     text = text.replace('Ă', 'A')
+     text = text.replace('Â', 'A')
+     text = text.replace('î', 'i')
+     text = text.replace('î', 'I')
+     text = text.replace('ț', 't')
+     text = text.replace('Ț', 'T')
+     text = text.replace('ș', 's')
+     text = text.replace('Ș', 'S')
+     return text
+
 # Filter for data/ directory - used on mapping process to have more relevant result #
 def elim_duplicates(inputFile, path):
     hashLines = set()

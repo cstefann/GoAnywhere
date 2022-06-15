@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/directionsFragment">
+
+    <fragment
+        android:id="@+id/routesFragment"
+        android:name="com.example.goanywhere.ui.fragments.RoutesFragment"
+        android:label="RoutesFragment" >
+        <action
+            android:id="@+id/action_routesFragment_to_tripFragment"
+            app:destination="@id/tripFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.goanywhere.ui.fragments.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/tripFragment"
+        android:name="com.example.goanywhere.ui.fragments.TripFragment"
+        android:label="TripFragment" >
+        <action
+            android:id="@+id/action_tripFragment_to_routesFragment"
+            app:destination="@id/routesFragment" />
+        <action
+            android:id="@+id/action_tripFragment_to_trackingFragment"
+            app:destination="@id/trackingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/directionsFragment"
+        android:name="com.example.goanywhere.ui.fragments.DirectionsFragment"
+        android:label="DirectionsFragment" >
+        <action
+            android:id="@+id/action_directionsFragment_to_routesFragment"
+            app:destination="@id/routesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/trackingFragment"
+        android:name="com.example.goanywhere.ui.fragments.TrackingFragment"
+        android:label="TrackingFragment" >
+        <action
+            android:id="@+id/action_trackingFragment_to_directionsFragment"
+            app:destination="@id/directionsFragment" />
+    </fragment>
+</navigation>
