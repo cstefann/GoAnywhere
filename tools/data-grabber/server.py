@@ -17,7 +17,7 @@ def grab_data(currTime, run_event):
             t.sleep(60)
     except Exception:
         print("Restarting because of timeout ...\n")
-        currTime = gb.grabber(currTime)
+        grab_data(currTime, run_event)
 
 def server_response(self, response, content):
     self.send_response(200)
@@ -51,19 +51,19 @@ class MyServer(BaseHTTPRequestHandler):
         path = self.path.split("?")
         route = path[0]
         if (route == "/getroutes"):
-            get_routes = threading.Thread(target = getroutes_thread_func, args=(self,path,))
-            get_routes.start()
-            get_routes.join()
+            getRoutesThread = threading.Thread(target = getroutes_thread_func, args=(self,path,))
+            getRoutesThread.start()
+            getRoutesThread.join()
             print("[server-log] Terminated get_routes thread\n")
         elif (route == "/providecoords"):
-            provide_coords = threading.Thread(target = providecoords_thread_func, args=(self,path,))
-            provide_coords.start()
-            provide_coords.join()
+            provideCoordsThread = threading.Thread(target = providecoords_thread_func, args=(self,path,))
+            provideCoordsThread.start()
+            provideCoordsThread.join()
             print("[server-log] Terminated provide_coords thread\n")
         elif (route == "/inforoute"):
-            info_route = threading.Thread(target = inforoute_thread_function, args=(self,path,))
-            info_route.start()
-            info_route.join()
+            infoRouteThread = threading.Thread(target = inforoute_thread_function, args=(self,path,))
+            infoRouteThread.start()
+            infoRouteThread.join()
             print("[server-log] Terminated info_route thread\n")
 
 if __name__ == "__main__":        
@@ -72,14 +72,14 @@ if __name__ == "__main__":
     print("Server started http://%s:%s" % (hostName, serverPort))
     run_event = threading.Event()
     run_event.set()
-    t1 = threading.Thread(target = grab_data, args=(currTime,run_event,))
+    grabberThread = threading.Thread(target = grab_data, args=(currTime,run_event,))
     try:
-        t1.start()
+        grabberThread.start()
         webServer.serve_forever()
     except KeyboardInterrupt:
         print("\nReceived KB Interrupt ... waiting for all the procs to close\n")
         run_event.clear()
-        t1.join()
+        grabberThread.join()
         print("Data-grab thread closed.")
         webServer.server_close()
         print("Server stopped.")

@@ -44,23 +44,29 @@ def provide_last_location_bus_tram(filename):
 def provide_coordinates(dest):
     destURL = const.addrURL + dest + const.addrFormatter
     destContent = js.loads(data_downloader(destURL))
-    destCoord = (destContent[1]["lat"], destContent[1]["lon"])
+    destCoord = (destContent[0]["lat"], destContent[0]["lon"])
     return destCoord
 
 # Provide nearest station from the users's current location #
-def provide_nearest_station(location, vehicle):
+def provide_nearest_station(currLocation, destLocation, vehicle):
     stopsArr = get_all_stops()
-    minDistance = 10000.0
-    nearestStation = ("", 0.0, 0.0, "")
+    minDistanceCurr = 10000.0
+    minDistanceDest = 10000.0
+    nearestStationCurr = ("", 0.0, 0.0, "")
+    nearestStationDest = ("", 0.0, 0.0, "")
     for iter in stopsArr:
         isVehiclePresent = vehicle in iter[3]
         if (isVehiclePresent == True):
             iterCoord = (iter[1], iter[2])
-            currentDistance = distance((location[0], location[1]), iterCoord)
-            if (currentDistance < minDistance):
-                minDistance = currentDistance
-                nearestStation = iter
-    return nearestStation
+            currentDistanceCurr = distance((currLocation[0], currLocation[1]), iterCoord)
+            currentDistanceDest = distance((destLocation[0], destLocation[1]), iterCoord)
+            if (currentDistanceCurr < minDistanceCurr):
+                minDistanceCurr = currentDistanceCurr
+                nearestStationCurr = iter
+            if (currentDistanceDest < minDistanceDest):
+                minDistanceDest = currentDistanceCurr
+                nearestStationDest = iter
+    return [nearestStationCurr, nearestStationDest]
 
 # Function that provides all avalible routes from nearest station to destination #
 def get_routes(current, dest):
@@ -74,9 +80,11 @@ def get_routes(current, dest):
 # Provide info for selected route - all the stops, number of stops to the dest, aproximate arrival time to dest #
 def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
     output = []
-    nearestStation = provide_nearest_station(currentCoord, routeName)
-    data = get_routes((nearestStation[1], nearestStation[2]), destCoord)[1]
-    output.append("nearestStation - " + str(nearestStation))
+    nearestStations = provide_nearest_station(currentCoord, destCoord, routeName)
+    nearestCurrentStation = nearestStations[0]
+    nearestDestStation = nearestStations[1]
+    data = get_routes((nearestCurrentStation[1], nearestCurrentStation[2]), (nearestDestStation[1], nearestDestStation[2]))[1]
+    output.append("nearestStation - " + str(nearestCurrentStation))
     output.append("vehicul - " + routeName)
     output.append("ruta")
     counter = 1
@@ -88,9 +96,9 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
         else: output.append("statie " + str(counter) + " - " + f.elim_diacritics(i["name"]))
         counter = counter + 1
     output.append("~")
-    currDate = str(date.today())
+    mappedFileName = "mapped_vehicles.txt"
     dataFile = ""
-    with open(mappedPath + currDate + ".txt") as map:
+    with open(mappedPath + mappedFileName) as map:
         lines = map.readlines()
         for iter in lines:
             iterSplitted = iter.replace("[", "").replace("]", "").replace("'", "").split(",")
@@ -100,9 +108,10 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
     map.close()
     print(dataPath + dataFile)
     vehInfo = provide_last_location_bus_tram(dataPath + dataFile).split(";")
+    vehCoords = vehInfo[0].split(",")
     output.append("locatie - " + str(vehInfo[0]))
     output.append("ora - " + str(vehInfo[1]).replace("\n", ""))
-    output.append("distanta - " + str(distance((float(vehInfo[0][0]), float(vehInfo[0][1])), currentCoord)))
+    output.append("distanta - " + str(distance((nearestCurrentStation[1], nearestCurrentStation[2]), (float(vehCoords[0]), float(vehCoords[1])))))
     output.append("nrStatii - " + str(data[routeNumber]["nrStatii"]))
     output.append("arrivalTime - " + str(m.ceil(data[routeNumber]["timpDrive"])) + " min")
     return f.to_json(output)

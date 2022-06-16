@@ -21,7 +21,7 @@ class RoutesFragment : Fragment(R.layout.fragment_routes) {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _binding = FragmentRoutesBinding.inflate(inflater, container, false)
         _binding!!.floatingActionButton.setOnClickListener{
             findNavController().navigate(R.id.action_routesFragment_to_tripFragment )

@@ -5,6 +5,7 @@ import os.path as path
 import os as os
 import json as js
 from mapping import mapper
+import threading
 
 # Request to CTP for grabbing bus data and decode - json #
 def data_downloader(URL):
@@ -36,6 +37,10 @@ def json_parser():
             f.write(output + "\n")
             f.close()
 
+def map_thread():
+    print("Paused data-grabbing, now mapping avalible data.")
+    mapper.mapper()
+
 # Function that restarts the grabber script in case of timeouts from CTP Open Data service #
 def grabber(mappTime):
     currTime = dt.now().strftime("%H:%M:%S")
@@ -44,12 +49,13 @@ def grabber(mappTime):
         mappTime = splittedCurrTime
         cleanup("mapping/data/")
         cleanup("mapping/filtered-data/")
-    if (int(splittedCurrTime[0]) - int(mappTime[0]) == 2):
-        print("Paused data-grabbing, now mapping avalible data.")
-        mapper.mapper()
+    if (int(splittedCurrTime[0]) - int(mappTime[0]) == 4):
+        mapperThread = threading.Thread(target=map_thread)
+        mapperThread.start()
+        mapperThread.join()
+        print("[grabber-log] Terminated mapping thread\n")
         mappTime = "00:00:00"
     else:
         print(currTime)
         json_parser()
     return mappTime
-    

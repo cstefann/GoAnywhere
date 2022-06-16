@@ -45,12 +45,12 @@ After that, it generates a file where the mappings will be avalible, e. g:
 '''
 def mapper():
     dataFiles = os.listdir(f.elim_noise(dataPath))
-    currDate = str(date.today())
+    fileName = "mapped_vehicles.txt"
     dataArr = rg.iterator("shapes", "mapping/id_mapping.txt")
-    if (path.exists(outputPath + currDate + ".txt") == False):
-        outFile = open(outputPath + currDate + ".txt", "x")
+    if (path.exists(outputPath + fileName) == False):
+        outFile = open(outputPath + fileName, "x")
     else:
-        outFile = open(outputPath + currDate + ".txt", "w")
+        outFile = open(outputPath + fileName, "w")
     print("[mapper] Started mapping!")
     for iter in dataArr:
         max = [str(iter[0][0]) + " " + str(iter[0][1]),"",0]
