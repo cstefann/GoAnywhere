@@ -1,7 +1,6 @@
 from haversine import haversine, Unit
 from mapping.formatting import formatter as f
 from mapping import routegrabber as rg
-from datetime import date
 import os.path as path
 import os as os
 

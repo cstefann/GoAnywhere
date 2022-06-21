@@ -27,7 +27,8 @@ def stops(jsonBlob, vehicleID, dataArr):
             if (appended == False):
                 dataArr.append(outLine)
 
-# Appends to dataArr array all the coordinates that are checked in by a vehicle - used on mapping for relevant results #
+# Appends to dataArr array all the coordinates that are checked in by a vehicle
+# It is used on mapping process for relevant results #
 def shapes(jsonBlob, vehicleID, dataArr):
     vehArr = [(str(vehicleID).split("_")[0], str(vehicleID).split("_")[1])]
     for i in jsonBlob["data"]["routeWayCoordinates"]:
