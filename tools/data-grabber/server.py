@@ -23,7 +23,7 @@ def server_response(self, response, content):
     self.send_header('Content-Type', content)
     self.end_headers()
     self.wfile.write(bytes(response, 'UTF-8'))
-
+ 
 def getroutes_thread_func(self, path):
     params = path[1].split("&")
     currentCoord = (float(params[0].split("=")[1]), float(params[1].split("=")[1]))
@@ -34,7 +34,7 @@ def getroutes_thread_func(self, path):
 def providecoords_thread_func(self, path):
     destination = path[1].split("=")[1]
     response = str(feeder.provide_coordinates(destination))
-    server_response(self, response, 'text/html')
+    server_response(self, response, 'application/json')
 
 def inforoute_thread_function(self, path):
     params = path[1].split("&")

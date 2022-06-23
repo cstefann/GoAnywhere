@@ -44,8 +44,7 @@ def provide_last_location_bus_tram(filename):
 def provide_coordinates(dest):
     destURL = const.addrURL + dest + const.addrFormatter
     destContent = js.loads(data_downloader(destURL))
-    destCoord = (destContent[0]["lat"], destContent[0]["lon"])
-    return destCoord
+    return f.to_json([("latitude - " + str(destContent[0]["lat"]), "longitude - " + str(destContent[0]["lon"]))])
 
 # Provide nearest station from the users's current location #
 def provide_nearest_station(currLocation, destLocation, vehicle):
@@ -71,15 +70,15 @@ def provide_nearest_station(currLocation, destLocation, vehicle):
 # Function that provides all avalible routes from nearest station to destination #
 def get_routes(current, dest):
     routeURL = const.apiURL + "/routing/routes/" + str(current[0]) + "/" + str(current[1]) + "/" + str(dest[0]) + "/" + str(dest[1])
-    avalibleRoutes = []
+    avalibleRoutes = ["["]
     routes = js.loads(data_downloader(routeURL))
     for i in routes["data"]:
-            avalibleRoutes.append(str(len(avalibleRoutes)) + " - " + str(i["routes"][0]['routeName']).replace("5 TRAMVAI", "Tramvai 5"))
+            avalibleRoutes.append(("id - " + str(len(avalibleRoutes)), "route - " + str(i["routes"][0]['routeName']).replace("5 TRAMVAI", "Tramvai 5")))
     return [f.to_json(avalibleRoutes), routes["data"]]
 
 # Provide info for selected route - all the stops, number of stops to the dest, aproximate arrival time to dest #
 def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
-    output = []
+    output = ["{"]
     nearestStations = provide_nearest_station(currentCoord, destCoord, routeName)
     nearestCurrentStation = nearestStations[0]
     nearestDestStation = nearestStations[1]
@@ -90,10 +89,11 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
     counter = 1
     for i in data[routeNumber]["routes"][0]["routeWaypoints"]:
         if (i["name"] == data[routeNumber]["routes"][0]["statiePlecareNume"]):
-            output.append("statie " + str(counter) + " (plecare) - " + f.elim_diacritics(i["name"]))
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (plecare)"))
         elif (i["name"] == data[routeNumber]["routes"][0]["statieSosireNume"]):
-            output.append("statie " + str(counter) + " (sosire) - " + f.elim_diacritics(i["name"]))
-        else: output.append("statie " + str(counter) + " - " + f.elim_diacritics(i["name"]))
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (sosire)"))
+        else: 
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"])))
         counter = counter + 1
     output.append("~")
     mappedFileName = "mapped_vehicles.txt"
@@ -106,7 +106,6 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
                 dataFile = str(iterSplitted[1]).replace(" ", "")
                 break
     map.close()
-    print(dataPath + dataFile)
     vehInfo = provide_last_location_bus_tram(dataPath + dataFile).split(";")
     vehCoords = vehInfo[0].split(",")
     output.append("locatie - " + str(vehInfo[0]))

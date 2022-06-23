@@ -2,28 +2,77 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/directionsConstraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton2"
-        android:layout_width="wrap_content"
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textFieldCurrentLocation"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:clickable="true"
-        android:contentDescription="bbbbbbb"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="147dp"
+        android:hint="@string/current_location"
+        app:layout_constraintBottom_toTopOf="@+id/currentLocation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        app:layout_constraintVertical_bias="0.306">
 
-    <TextView
-        android:id="@+id/textView"
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Directions"
+        android:backgroundTint="@color/material_dynamic_primary30"
+        android:text="@string/go_button"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/floatingActionButton2" />
+        app:layout_constraintTop_toBottomOf="@+id/destinationLocation"
+        tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/currentLocation"
+        android:layout_width="284dp"
+        android:layout_height="59dp"
+        android:layout_marginBottom="525dp"
+        android:hint="@string/current_location"
+        android:textColorHint="@color/white"
+        android:imeOptions="actionGo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textFieldCurrentLocation"
+        app:layout_constraintVertical_bias="0.306" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/destinationLocation"
+        android:layout_width="284dp"
+        android:layout_height="59dp"
+        android:hint="@string/destination"
+        android:textColorHint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textFieldCurrentLocation" />
+
+    <RadioButton
+        android:id="@+id/useCurrentLocationButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/use_my_current_location_instead"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/destinationLocation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.346"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/currentLocation"
+        app:layout_constraintVertical_bias="0.303" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

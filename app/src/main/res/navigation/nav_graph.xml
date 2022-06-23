@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
     app:startDestination="@id/directionsFragment">
 
@@ -11,11 +12,13 @@
         <action
             android:id="@+id/action_routesFragment_to_tripFragment"
             app:destination="@id/tripFragment" />
+        <action
+            android:id="@+id/action_routesFragment_to_directionsFragment"
+            app:destination="@id/directionsFragment" />
+        <action
+            android:id="@+id/action_routesFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
     </fragment>
-    <fragment
-        android:id="@+id/settingsFragment"
-        android:name="com.example.goanywhere.ui.fragments.SettingsFragment"
-        android:label="SettingsFragment" />
     <fragment
         android:id="@+id/tripFragment"
         android:name="com.example.goanywhere.ui.fragments.TripFragment"
@@ -23,9 +26,6 @@
         <action
             android:id="@+id/action_tripFragment_to_routesFragment"
             app:destination="@id/routesFragment" />
-        <action
-            android:id="@+id/action_tripFragment_to_trackingFragment"
-            app:destination="@id/trackingFragment" />
     </fragment>
     <fragment
         android:id="@+id/directionsFragment"
@@ -34,13 +34,20 @@
         <action
             android:id="@+id/action_directionsFragment_to_routesFragment"
             app:destination="@id/routesFragment" />
+        <action
+            android:id="@+id/action_directionsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
     </fragment>
     <fragment
-        android:id="@+id/trackingFragment"
-        android:name="com.example.goanywhere.ui.fragments.TrackingFragment"
-        android:label="TrackingFragment" >
+        android:id="@+id/mapFragment"
+        android:name="com.example.goanywhere.ui.fragments.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" >
         <action
-            android:id="@+id/action_trackingFragment_to_directionsFragment"
+            android:id="@+id/action_mapFragment_to_routesFragment"
+            app:destination="@id/routesFragment" />
+        <action
+            android:id="@+id/action_mapFragment_to_directionsFragment"
             app:destination="@id/directionsFragment" />
     </fragment>
 </navigation>
