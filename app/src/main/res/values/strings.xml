@@ -12,4 +12,14 @@
     <string name="use_my_current_location_instead">Use my current location instead</string>
     <string name="currentToDest">Test</string>
     <string name="more">More</string>
+    <string name="back">Back</string>
+    <string name="nearest_station">Nearest Station:</string>
+    <string name="vehicle">Vehicle:</string>
+    <string name="route">Route:</string>
+    <string name="distance">Distance:</string>
+    <string name="number_of_stops">Number of Stops:</string>
+    <string name="arrival_time">Arrival time:</string>
+    <string name="search">Search</string>
+    <string name="MapView">Map View</string>
+    <string name="search_for_vehicle">Search for vehicle</string>
 </resources>

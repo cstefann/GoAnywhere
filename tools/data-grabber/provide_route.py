@@ -1,3 +1,4 @@
+from dis import dis
 from mapping import routegrabber as rg
 from haversine import haversine, Unit
 import constants as const
@@ -5,11 +6,12 @@ import requests as req
 import json as js
 import math as m
 import os
-from datetime import date
 from mapping.formatting import formatter as f
+import math as m
 
 mappedPath = "mapping/mapper_outputs/"
 dataPath = "mapping/data/"
+headlines = "mapping/headlines.txt"
 
 # GET request to Wink public API to gether coordinates for destination stop #
 def data_downloader(URL):
@@ -42,60 +44,55 @@ def provide_last_location_bus_tram(filename):
 
 # Coordinates for destination - Autocomplete feature for addreses, e.g: Iulius Mall as input -> full address with coordinates #
 def provide_coordinates(dest):
+    print("Received dest: " + dest + "\n")
     destURL = const.addrURL + dest + const.addrFormatter
+    print(destURL)
     destContent = js.loads(data_downloader(destURL))
-    return f.to_json([("latitude - " + str(destContent[0]["lat"]), "longitude - " + str(destContent[0]["lon"]))])
+    return "{" + "\"latitude\" : " + str(destContent[0]["lat"]) + "," + "\"longitude\" : " + str(destContent[0]["lon"]) + "}"
 
 # Provide nearest station from the users's current location #
-def provide_nearest_station(currLocation, destLocation, vehicle):
+def provide_nearest_station(coords, vehicle):
     stopsArr = get_all_stops()
-    minDistanceCurr = 10000.0
-    minDistanceDest = 10000.0
-    nearestStationCurr = ("", 0.0, 0.0, "")
-    nearestStationDest = ("", 0.0, 0.0, "")
+    minDistance = 10000.0
+    currentDistance = 10000.0
+    nearestStation = ("", 0.0, 0.0, "")
     for iter in stopsArr:
         isVehiclePresent = vehicle in iter[3]
         if (isVehiclePresent == True):
             iterCoord = (iter[1], iter[2])
-            currentDistanceCurr = distance((currLocation[0], currLocation[1]), iterCoord)
-            currentDistanceDest = distance((destLocation[0], destLocation[1]), iterCoord)
-            if (currentDistanceCurr < minDistanceCurr):
-                minDistanceCurr = currentDistanceCurr
-                nearestStationCurr = iter
-            if (currentDistanceDest < minDistanceDest):
-                minDistanceDest = currentDistanceCurr
-                nearestStationDest = iter
-    return [nearestStationCurr, nearestStationDest]
+            currentDistance = distance((coords[0], coords[1]), iterCoord)
+            if (currentDistance < minDistance):
+                minDistance = currentDistance
+                nearestStation = iter
+    return nearestStation
 
 # Function that provides all avalible routes from nearest station to destination #
 def get_routes(current, dest):
+    avalibleRoutes = "["
+    id = 0
     routeURL = const.apiURL + "/routing/routes/" + str(current[0]) + "/" + str(current[1]) + "/" + str(dest[0]) + "/" + str(dest[1])
-    avalibleRoutes = ["["]
+    alreadyAppended = ""
     routes = js.loads(data_downloader(routeURL))
-    for i in routes["data"]:
-            avalibleRoutes.append(("id - " + str(len(avalibleRoutes)), "route - " + str(i["routes"][0]['routeName']).replace("5 TRAMVAI", "Tramvai 5")))
-    return [f.to_json(avalibleRoutes), routes["data"]]
+    if (dest[0] == 0.0 and dest[1] == 0.0):
+        with open (headlines) as h:
+            lines = h.readlines()
+            for iter in lines:
+                avalibleRoutes = avalibleRoutes + ("{" + "\"id\" : " + "\"" + str(id) + "\"" + "," + "\"route\" : " + "\"" + iter.replace("\n", "") + "\"" + "}" + ",")
+                id = id + 1
+            avalibleRoutes = avalibleRoutes[:-1] + "]"
+        h.close()
+        return [avalibleRoutes, routes["data"]]
+    else:
+        avalibleRoutes = ["["]
+        for i in routes["data"]:
+            check = str(i["routes"][0]['routeName']) in alreadyAppended
+            if (check == False):
+                avalibleRoutes.append(("id - " + str(id), "route - " + str(i["routes"][0]['routeName']).replace("5 TRAMVAI", "Tramvai 5")))
+                alreadyAppended = alreadyAppended + " " + str(i["routes"][0]['routeName'])
+            id = id + 1
+        return [f.to_json(avalibleRoutes), routes["data"]]
 
-# Provide info for selected route - all the stops, number of stops to the dest, aproximate arrival time to dest #
-def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
-    output = ["{"]
-    nearestStations = provide_nearest_station(currentCoord, destCoord, routeName)
-    nearestCurrentStation = nearestStations[0]
-    nearestDestStation = nearestStations[1]
-    data = get_routes((nearestCurrentStation[1], nearestCurrentStation[2]), (nearestDestStation[1], nearestDestStation[2]))[1]
-    output.append("nearestStation - " + str(nearestCurrentStation))
-    output.append("vehicul - " + routeName)
-    output.append("ruta")
-    counter = 1
-    for i in data[routeNumber]["routes"][0]["routeWaypoints"]:
-        if (i["name"] == data[routeNumber]["routes"][0]["statiePlecareNume"]):
-            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (plecare)"))
-        elif (i["name"] == data[routeNumber]["routes"][0]["statieSosireNume"]):
-            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (sosire)"))
-        else: 
-            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"])))
-        counter = counter + 1
-    output.append("~")
+def provide_last_status(routeName):
     mappedFileName = "mapped_vehicles.txt"
     dataFile = ""
     with open(mappedPath + mappedFileName) as map:
@@ -106,11 +103,34 @@ def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
                 dataFile = str(iterSplitted[1]).replace(" ", "")
                 break
     map.close()
-    vehInfo = provide_last_location_bus_tram(dataPath + dataFile).split(";")
+    print(dataFile)
+    return provide_last_location_bus_tram(dataPath + dataFile).split(";")
+
+# Provide info for selected route - all the stops, number of stops to the dest, aproximate arrival time to dest #
+def provide_info_route(routeName, routeNumber, currentCoord, destCoord):
+    output = ["{"]
+    nearestCurrentStation = provide_nearest_station(currentCoord, routeName)
+    data = get_routes((currentCoord[0], currentCoord[1]), (destCoord[0], destCoord[1]))[1]
+    output.append("nearestStation - " + str(nearestCurrentStation[0]))
+    output.append("vehicul - " + routeName)
+    output.append("ruta")
+    counter = 1
+
+    for i in data[routeNumber]["routes"][0]["routeWaypoints"]:
+        if (i["name"] == data[routeNumber]["routes"][0]["statieSosireNume"]):
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (sosire)"))
+        elif (i["name"] == data[routeNumber]["routes"][0]["statiePlecareNume"]):
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"]) + " (plecare)"))
+        else: 
+            output.append(("id - " + str(counter), "statie - " + f.elim_diacritics(i["name"])))
+        counter = counter + 1
+
+    output.append("~")
+    vehInfo = provide_last_status(routeName)
     vehCoords = vehInfo[0].split(",")
     output.append("locatie - " + str(vehInfo[0]))
     output.append("ora - " + str(vehInfo[1]).replace("\n", ""))
-    output.append("distanta - " + str(distance((nearestCurrentStation[1], nearestCurrentStation[2]), (float(vehCoords[0]), float(vehCoords[1])))))
+    output.append("distanta - " + str(m.ceil(distance((nearestCurrentStation[1], nearestCurrentStation[2]), (float(vehCoords[0]), float(vehCoords[1]))))) + " metri")
     output.append("nrStatii - " + str(data[routeNumber]["nrStatii"]))
     output.append("arrivalTime - " + str(m.ceil(data[routeNumber]["timpDrive"])) + " min")
     return f.to_json(output)

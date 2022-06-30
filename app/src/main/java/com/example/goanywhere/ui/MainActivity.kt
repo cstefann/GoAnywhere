@@ -8,6 +8,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.goanywhere.R
 import com.example.goanywhere.databinding.ActivityMainBinding
+import com.example.goanywhere.others.Strings
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -32,5 +33,10 @@ class MainActivity : AppCompatActivity() {
                     else -> bottomNavigationView.visibility = View.GONE
                 }
             }
+    }
+
+    override fun onStop() {
+        super.onStop()
+        deleteDatabase(Strings.TRIPS_DATABASE_NAME);
     }
 }

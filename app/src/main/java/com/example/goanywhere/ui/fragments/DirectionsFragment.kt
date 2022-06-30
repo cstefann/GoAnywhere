@@ -6,7 +6,6 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.location.Location
-import android.net.ConnectivityManager
 import android.net.Uri
 import android.os.Build
 import android.os.Bundle
@@ -21,23 +20,26 @@ import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import com.example.goanywhere.R
 import com.example.goanywhere.databinding.FragmentDirectionsBinding
+import com.example.goanywhere.models.Coordinates
+import com.example.goanywhere.shareable.coordinatesData
+import com.example.goanywhere.shareable.getRouteReqData
 import com.example.goanywhere.ui.views.MainViewModel
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
 import dagger.hilt.android.AndroidEntryPoint
-
+import timber.log.Timber
 
 @AndroidEntryPoint
 class DirectionsFragment : Fragment(R.layout.fragment_directions) {
     private val viewModel: MainViewModel by viewModels()
     private var _binding: FragmentDirectionsBinding? = null
+    var currentLoc: Coordinates = Coordinates(0.0, 0.0)
+    var destLoc: Coordinates = Coordinates(0.0, 0.0)
     private var fusedLocationProvider: FusedLocationProviderClient? = null
-
-    // Location permissions request is from stack overflow but it's adapted for my need
-    // https://stackoverflow.com/questions/40142331/how-to-request-location-permission-at-runtime
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -45,20 +47,25 @@ class DirectionsFragment : Fragment(R.layout.fragment_directions) {
         savedInstanceState: Bundle?
     ): View {
         _binding = FragmentDirectionsBinding.inflate(inflater, container, false)
-
         fusedLocationProvider = LocationServices.getFusedLocationProviderClient(requireActivity())
 
         checkLocationPermission()
 
-        _binding!!.useCurrentLocationButton.setOnClickListener{
-            fusedLocationProvider?.lastLocation
-                ?.addOnSuccessListener { location : Location? ->
-                    _binding!!.currentLocation.isEnabled = false
-                    if (location != null) {
-                        Toast.makeText(requireContext(), "Got location from onCreateView ${location.latitude} and ${location.longitude}", Toast.LENGTH_LONG).show()
-                    }
+        // Default cause - we retrieve current location and if radio is checked
+        // the values will be overwritten
+        fusedLocationProvider?.lastLocation
+            ?.addOnSuccessListener { location : Location? ->
+                if (location != null) {
+                    currentLoc.latitude = location.latitude
+                    currentLoc.longitude = location.longitude
                 }
+            }
+
+        _binding!!.useCurrentLocationButton.setOnClickListener{
+            _binding!!.currentLocation.isEnabled = false
+            Toast.makeText(context, "Using current location", Toast.LENGTH_LONG).show()
         }
+
         // For current location input box, in case that "use current location" radio
         // is not checked
         if (_binding!!.currentLocation.isEnabled)
@@ -73,8 +80,12 @@ class DirectionsFragment : Fragment(R.layout.fragment_directions) {
                         val imm: InputMethodManager =
                             context!!.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
                         imm.hideSoftInputFromWindow(_binding!!.currentLocation.windowToken, 0)
-                        Toast.makeText(requireContext(), _binding!!.currentLocation.text, Toast.LENGTH_SHORT)
-                            .show()
+                        val textCurrent = _binding!!.currentLocation.text.toString().trim();
+                        if (textCurrent.isNotEmpty()){
+                            lifecycleScope.launchWhenCreated {
+                                coordinatesData.location = textCurrent
+                                viewModel.makeProvideCoordsApiCall()}
+                        }
                         return true
                     }
                     return false
@@ -96,8 +107,12 @@ class DirectionsFragment : Fragment(R.layout.fragment_directions) {
                     val imm: InputMethodManager =
                         context!!.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
                     imm.hideSoftInputFromWindow(_binding!!.destinationLocation.windowToken, 0)
-                    Toast.makeText(requireContext(), _binding!!.destinationLocation.text, Toast.LENGTH_SHORT)
-                        .show()
+                    val textDest: String = _binding!!.destinationLocation.text.toString().trim();
+                    if (textDest.isNotEmpty()){
+                        lifecycleScope.launchWhenCreated {
+                            coordinatesData.location = textDest
+                            viewModel.makeProvideCoordsApiCall()}
+                    }
                     return true
                 }
                 return false
@@ -105,11 +120,27 @@ class DirectionsFragment : Fragment(R.layout.fragment_directions) {
         })
 
         _binding!!.button.setOnClickListener {
+            if (!_binding!!.currentLocation.isEnabled){
+                destLoc.latitude = coordinatesData.latitude[0]
+                destLoc.longitude = coordinatesData.longitude[0]
+            }
+            else{
+                currentLoc.latitude = coordinatesData.latitude[0]
+                currentLoc.longitude = coordinatesData.longitude[0]
+                destLoc.latitude = coordinatesData.latitude[1]
+                destLoc.longitude = coordinatesData.longitude[1]
+            }
+            getRouteReqData.latitudeStart = currentLoc.latitude
+            getRouteReqData.longitudeStart = currentLoc.longitude
+            getRouteReqData.latitudeEnd = destLoc.latitude
+            getRouteReqData.longitudeEnd = destLoc.longitude
             findNavController().navigate(R.id.action_directionsFragment_to_routesFragment)
         }
-
         return _binding!!.root
     }
+
+    // Location permissions request is from stack overflow but it's adapted for my need
+    // https://stackoverflow.com/questions/40142331/how-to-request-location-permission-at-runtime
 
     private fun checkLocationPermission() {
         if (ActivityCompat.checkSelfPermission(

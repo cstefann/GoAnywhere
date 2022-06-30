@@ -1,0 +1,33 @@
+tram_1 > Copou - Podu Ros - Tatarasi - Copou
+tram_3 > Tatarasi Nord - Gara - Tatarasi Nord
+tram_5 > Dacia - Gara Internationala - Tutora
+tram_6 > Dacia - Gara - Arcu - Targu Cucu
+tram_7 > Canta - Podu Ros - Tutora
+tram_8 > Copou - Tudor Vladimirescu - Tutora
+tram_9 > Copou - Podu Ros - Tehnopolis
+tram_11 > Dacia - Gara Internationala - Tatarasi Nord
+tram_13 > Copou - Tatarasi - Podu Ros - Copou
+bus_3b > Tatarasi Nord - Dancu
+bus_18 > Tatarasi Sud - Cartier Aviatiei - Tatarasi Sud
+bus_19 > Canta - Podu Ros - Poitiers - C.U.G. I
+bus_20 > Tatarasi Sud - Targu Cucu - Pacurari - Carrefour ERA - METRO
+bus_23 > Podu Ros - Tudor Neculai - Complex Sun City - Primaria Miroslava
+bus_27 > Tatarasi Nord - Baza 3 - Poitiers - Blocuri Ciurea
+bus_28 > Triumf - Podu Ros - Mircea cel Batran - Dacia
+bus_29 > Podu Ros - Baza 3 - Tomesti
+bus_30 > Canta - Gara Internationala - Bucium
+bus_30b > Carrefour ERA - Canta - Gara Internationala - Bucium
+bus_36 > Dacia - Gara - Copou - Breazu
+bus_41 > Piata Independentei - Podu Ros - Blocuri Ciurea
+bus_42 > Copou - Tudor Vladimirescu - Poitiers - C.U.G. I
+bus_43 > Pacurari - Tudor Vladimirescu - Poitiers - C.U.G. I
+bus_43c > Carrefour ERA - Pacurari - Tudor Vladimirescu - Poitiers - C.U.G. I
+bus_44 > Dacia - Mircea cel Batran - Frumoasa - Blocuri Ciurea
+bus_46 > Pacurari - Tudor Vladimirescu - Bucium
+bus_47 > Dacia - Mircea cel Batran - Podu Ros - Tudor Vladimirescu - Tatarasi Sud
+bus_48 > Targu Cucu - Podu de Fier - Moara de Vant - Complex Roua Residence - Ciric
+bus_49 > Targu Cucu - Podu de Fier - Moara de Vant - Complex Roua Residence
+bus_50 > Gara - Centru - Targu Cucu - Aeroport
+bus_52 > Piata Alexandru cel Bun - Pasaj Octav Bancila - Copou
+bus_53 > Blocuri sorogari - Targu Cucu
+bus_54 > Targu Cucu - Sararie - C. A. Rosetti

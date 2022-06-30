@@ -36,6 +36,13 @@ def providecoords_thread_func(self, path):
     response = str(feeder.provide_coordinates(destination))
     server_response(self, response, 'application/json')
 
+def last_status_thread_function(self, path):
+    vehicle = path[1].split("=")[1]
+    response = str(feeder.provide_last_status(vehicle)[0]).split(",")
+    print(response)
+    output = "{" + "\"latitude\" : " + response[0] + "," + "\"longitude\" : " + response[1] + "}"
+    server_response(self, output, 'application/json')
+
 def inforoute_thread_function(self, path):
     params = path[1].split("&")
     currentCoord = (float(params[0].split("=")[1]), float(params[1].split("=")[1]))
@@ -64,6 +71,11 @@ class MyServer(BaseHTTPRequestHandler):
             infoRouteThread.start()
             infoRouteThread.join()
             print("[server-log] Terminated info_route thread\n")
+        elif (route == "/status"):
+            lastStatusThread = threading.Thread(target = last_status_thread_function, args=(self,path,))
+            lastStatusThread.start()
+            lastStatusThread.join()
+            print("[server-log] Terminated last_status thread\n")
 
 if __name__ == "__main__":        
     currTime = "00:00:00"

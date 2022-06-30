@@ -35,12 +35,14 @@
         tools:ignore="MissingConstraints" />
 
     <com.google.android.material.textfield.TextInputEditText
+        android:inputType="textNoSuggestions"
         android:id="@+id/currentLocation"
         android:layout_width="284dp"
         android:layout_height="59dp"
         android:layout_marginBottom="525dp"
         android:hint="@string/current_location"
         android:textColorHint="@color/white"
+        android:textColor="@color/white"
         android:imeOptions="actionGo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -50,11 +52,13 @@
         app:layout_constraintVertical_bias="0.306" />
 
     <com.google.android.material.textfield.TextInputEditText
+        android:inputType="textNoSuggestions"
         android:id="@+id/destinationLocation"
         android:layout_width="284dp"
         android:layout_height="59dp"
         android:hint="@string/destination"
         android:textColorHint="@color/white"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
